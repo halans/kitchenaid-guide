@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Build copy of assets/fonts for dist/404.html; regenerate with python3 build.py
+dist/assets/
