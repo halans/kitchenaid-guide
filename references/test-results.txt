@@ -1,0 +1,22 @@
+test_assets_exist (__main__.GuideTests) ... ok
+test_basic_no_churn_ice_cream (__main__.GuideTests) ... ok
+test_counts (__main__.GuideTests) ... ok
+test_crepe_batter (__main__.GuideTests) ... ok
+test_data_shape (__main__.GuideTests) ... ok
+test_equipment_counts (__main__.GuideTests) ... ok
+test_external_link_security (__main__.GuideTests) ... ok
+test_food_safety_guards (__main__.GuideTests) ... ok
+test_internal_links (__main__.GuideTests) ... ok
+test_ksm195_cleaning_and_compatibility (__main__.GuideTests) ... ok
+test_ksm195_profile (__main__.GuideTests) ... ok
+test_ksm195_recipe_tools (__main__.GuideTests) ... ok
+test_no_external_runtime_dependencies (__main__.GuideTests) ... ok
+test_online_offline_equivalence (__main__.GuideTests) ... ok
+test_quick_churn_vanilla (__main__.GuideTests) ... ok
+test_rebuild_is_current (__main__.GuideTests) ... ok
+test_unique_ids (__main__.GuideTests) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.145s
+
+OK

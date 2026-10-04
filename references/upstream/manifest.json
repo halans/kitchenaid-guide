@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/how-to-mix-bread-heavy-dough",
+    "cached": "references/upstream/01.html",
+    "status": 200,
+    "sha256": "63130210b25d44c1673b3736635c2beafcc56209177c09993d668f46658ee323",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/stand-mixer-speed-control-guide",
+    "cached": "references/upstream/02.html",
+    "status": 200,
+    "sha256": "609f9f39c8444849de6919e7ff213064a96e14a721c11101e72a2f378ec0d647",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Tips_for_Great_Results",
+    "cached": "references/upstream/03.html",
+    "status": 200,
+    "sha256": "0610c840638fc323281d63dce149e1a611a450a78d922aef45604024d9a914e0",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "url": "https://api.whirlpoolcentral.ca/_resources/documents/KSMPRA_use_and_care_en.pdf",
+    "cached": "references/upstream/04.pdf",
+    "status": 200,
+    "sha256": "40f6875550e0775f4e055eb119f103aa198968c345195e7af29cbe2bf9c75ab0",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252",
+    "cached": "references/upstream/05-ksm195-manual.pdf",
+    "retrieved": "2026-10-04",
+    "sha256": "a021d9501b5f1940cbfeefa88c86820978301fed619ccb2c2012b92b5a6a07b3",
+    "status": 200
+  },
+  {
+    "url": "https://kitchenaid.com.au/products/ksm195-stand-mixer",
+    "cached": "references/upstream/06-ksm195-product.html",
+    "retrieved": "2026-10-04",
+    "sha256": "8448071e6da622f4a6db3f2101562de41f6b1a57306c95029480876c3f449324",
+    "status": 200
+  },
+  {
+    "url": "https://kitchenaid.com.au/products/pastry-beater-standard-th-sm",
+    "cached": "references/upstream/07-pastry-beater.html",
+    "retrieved": "2026-10-04",
+    "sha256": "933bf5d29dbd6474afd0c8ec799d6efbea2443ee7837cf756cb2c33787694e5a",
+    "status": 200
+  },
+  {
+    "url": "https://kitchenaid.com.au/products/3-piece-pasta-roller-and-cutter-attachment-ksmpra",
+    "cached": "references/upstream/08-ksmpra-au.html",
+    "retrieved": "2026-10-04",
+    "sha256": "bbd0137e7f761d1c3bc4f287d9a4faf1b12bbab19532ce3e5c33896dada51e08",
+    "status": 200
+  },
+  {
+    "url": "https://kitchenaid.com.au/products/ice-cream-bowl-attachment",
+    "cached": "references/upstream/09-ice-cream-au.html",
+    "retrieved": "2026-10-04",
+    "sha256": "81bbed32aa8f95c0545a3112a22282f8393e0194f299c815a6e0561c281e3b3e",
+    "status": 200
+  }
+]

@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "pizza-dough",
+    "title": "Pizza dough",
+    "category": "dough",
+    "equipment": "Mixer, flex-edge beater, dough hook, scales, covered bowl and pizza tray",
+    "requirement": "standard",
+    "time": "1–2 hours, including rise and baking",
+    "intro": "An oil-rich tray pizza for a domestic oven—not the lean, high-heat Neapolitan dough from Ninety Seconds.",
+    "ingredients": [
+      "bread flour 300 g",
+      "instant dried yeast 7 g",
+      "caster sugar 2 g",
+      "fine salt 5 g",
+      "lukewarm water 150 ml",
+      "olive oil 50 ml",
+      "extra oil 5 ml for bowl"
+    ],
+    "steps": [
+      "Check your exact model’s batch limit. Keep dough-hook kneading at speed 2. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or follow a stricter model manual. Stop immediately if the mixer strains; hand-finish rather than increasing speed.",
+      "Fit the flex-edge beater in the 4.7 L bowl. Combine dry ingredients at speed 2 for 15 seconds. Add water and oil at speed 2; mix 30–60 seconds until shaggy and joined.",
+      "Stop, fit hook. Knead at speed 2, 2–3 minutes until smoother, elastic and slightly tacky. Stop earlier if already developed; do not chase a dry dough.",
+      "Oil bowl, cover; prove about 30–60 minutes until doubled (source's 15–30 minutes may be optimistic in a cool room).",
+      "Gently deflate by hand, stretch/roll to tray; rest 10 minutes if it springs back. Add modest toppings. Bake 230°C conventional / 210°C fan, about 15–20 minutes, until crust is golden and base crisp and cooked. Cool 2 minutes before slicing."
+    ],
+    "cue": "Golden crust with a crisp, cooked base.",
+    "troubleshoot": "no rise: check yeast age, water warmth and room temperature; tight dough: rest before stretching; soggy centre: reduce wet toppings and preheat oven fully. Do not put unsupported raw dough directly on oven bars.",
+    "sources": [
+      {
+        "title": "KitchenAid: gourmet pizza 0",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/gourmet-pizza-0"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Approx. 510 g dough. Source's relatively oil-rich formula retained. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping. KSM195 manual p. 5: mix and knead yeast dough at speed 2; do not use Stir/speed 1. Initial flex-edge mixing counts toward the heavy-run limit.",
+    "yield": "one 30–35 cm pizza, 3–4 portions.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "sandwich-bread",
+    "title": "Sandwich bread (white tin loaf)",
+    "category": "dough",
+    "equipment": "Mixer, flex-edge beater, dough hook, scales and approximately 21 × 11 × 7 cm loaf tin",
+    "requirement": "standard",
+    "time": "3–5½ hours, including two rises and full cooling; allow an extra 20-minute mixer rest if needed",
+    "intro": "Start with the lower water quantity and add only enough to leave the dough lightly tacky.",
+    "ingredients": [
+      "bread flour 500 g",
+      "instant yeast 7 g",
+      "caster sugar 12 g",
+      "fine salt 5 g",
+      "lukewarm water 250–300 ml (start with 250)",
+      "olive oil 60 ml",
+      "optional milk powder 15 g",
+      "bowl/tin oil 10 ml"
+    ],
+    "steps": [
+      "Check your exact model’s batch limit. Keep dough-hook kneading at speed 2. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or follow a stricter model manual. Stop immediately if the mixer strains; hand-finish rather than increasing speed.",
+      "Fit the flex-edge beater in the 4.7 L bowl. Combine dry ingredients at speed 2 for 15 seconds. Add 250 ml water and oil; mix at speed 2 for 45–60 seconds, adding remaining water in 5–10 ml increments only if dry flour remains.",
+      "Stop and unplug to fit the hook. Knead at speed 2 for 2–3 minutes until smooth, springy and lightly tacky. If insufficiently developed, rest dough and mixer 20 minutes, then knead at speed 2 another 1–2 minutes, or finish by hand. Observe the model duty limit.",
+      "Cover in oiled bowl; prove 60–90 minutes until doubled. Deflate by hand; shape a tight log and put in greased tin.",
+      "Cover and prove 40–60 minutes until puffy and near the rim; a gentle finger dent should return slowly, not immediately.",
+      "Bake 200°C conventional / 180°C fan for 25–35 minutes until golden, loaf sides firm and base sounds hollow. Turn out; cool completely, about 1–2 hours, before slicing. Brush warm crust with a little oil if a softer crust is desired."
+    ],
+    "cue": "Golden loaf with firm sides and a hollow-sounding base; cool fully before slicing.",
+    "troubleshoot": "dense loaf: allow fuller rise, do not add excess flour; collapsed top: reduce final proof; gummy slices: bake longer and cool fully.",
+    "sources": [
+      {
+        "title": "KitchenAid: classic white crusty bread 0",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/classic-white-crusty-bread-0"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Approximately 850–900 g dough. Adapted from the official white tin-loaf recipe; optional milk powder helps a softer sandwich crumb. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping. KSM195 manual p. 5: mix and knead yeast dough at speed 2; do not use Stir/speed 1. Initial flex-edge mixing counts toward the heavy-run limit.",
+    "yield": "one approximately 21 × 11 × 7 cm loaf, 10–12 slices.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "rosemary-focaccia",
+    "title": "Rosemary focaccia",
+    "category": "dough",
+    "equipment": "Mixer, flex-edge beater, dough hook, scales and approximately 20 × 30 cm metal tray",
+    "requirement": "standard",
+    "time": "2½–3¼ hours, including rest, two rises and baking",
+    "intro": "Oiled hands preserve this dough’s softness better than extra flour when stretching it into the tray.",
+    "ingredients": [
+      "bread flour 400 g",
+      "instant yeast 6 g",
+      "salt 7 g",
+      "caster sugar 12 g",
+      "warm water 260 ml",
+      "olive oil 30 ml in dough + 20 ml for tin/top",
+      "rosemary leaves 2 g",
+      "sliced garlic 5 g",
+      "flaky salt 2 g"
+    ],
+    "steps": [
+      "Check your exact model’s batch limit. Keep dough-hook kneading at speed 2. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or follow a stricter model manual. Stop immediately if the mixer strains; hand-finish rather than increasing speed.",
+      "Fit the flex-edge beater in the 4.7 L bowl. Combine dry ingredients at speed 2 for 15 seconds; add water and 30 ml oil, then mix at speed 2 for 45 seconds until joined.",
+      "Hook at speed 2 for 2–3 minutes to a soft, stretchy dough; some sticking is normal. Cover and rest 20 minutes, then give one set of gentle stretch-and-folds by hand.",
+      "Cover in oiled bowl, prove about 60–90 minutes until doubled. Transfer to generously oiled tray; gently ease towards corners. Rest 10 minutes if resisting, then stretch again.",
+      "Cover 25–40 minutes until airy and puffy. Dimple with oiled fingers; distribute remaining oil, rosemary, garlic and flaky salt.",
+      "Bake 200°C conventional / 180°C fan for 25–30 minutes until golden top and cooked, golden underside. Cool 10 minutes on rack."
+    ],
+    "cue": "Golden top and cooked, golden underside; airy dough before baking.",
+    "troubleshoot": "sticky is expected; use oiled hands, not handfuls of extra flour. Tight stretching: rest. Pale wet base: use a metal tray and bake a little longer; shade exposed garlic if browning too quickly.",
+    "sources": [
+      {
+        "title": "KitchenAid: herb and garlic focaccia 0",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/herb-and-garlic-focaccia-0"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Approximately 710 g dough, excluding topping. Editorial simpler, wetter, unfilled adaptation of the official herb-and-garlic recipe (Parmesan filling omitted). Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping. KSM195 manual p. 5: mix and knead yeast dough at speed 2; do not use Stir/speed 1. Initial flex-edge mixing counts toward the heavy-run limit.",
+    "yield": "one approximately 20 × 30 cm tray, 6 portions.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "overnight-brioche",
+    "title": "Brioche — overnight small loaf",
+    "category": "dough",
+    "equipment": "Mixer, flex-edge beater, dough hook, scales and approximately 21 × 11 cm loaf tin",
+    "requirement": "standard",
+    "time": "13–17 hours or longer, including ≥8 hours chilling, proofing and cooling; 8–15 minutes active hook mixing in short runs plus 20-minute machine rests",
+    "intro": "Cold overnight dough is easier to shape, while short speed-2 runs protect the mixer during enrichment.",
+    "ingredients": [
+      "plain flour 275 g",
+      "milk 65 ml",
+      "caster sugar 15 g",
+      "instant yeast 3.5 g",
+      "beaten egg 100 g",
+      "soft but not melting unsalted butter 115 g",
+      "fine salt 3 g",
+      "additional beaten egg 15 g for glaze"
+    ],
+    "steps": [
+      "Check your exact model’s batch limit. Keep dough-hook kneading at speed 2. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or follow a stricter model manual. Stop immediately if the mixer strains; hand-finish rather than increasing speed.",
+      "In a jug, stir milk, yeast and sugar together; wait 10 minutes if checking yeast activity. In the 4.7 L bowl, use the flex-edge beater at speed 2 to combine this with egg, flour and salt for 45–60 seconds, forming a shaggy dough. Rest covered 20 minutes.",
+      "Hook at speed 2 for 2 minutes. Add butter in three portions at 2, allowing roughly 1–2 minutes per portion until absorbed. Interrupt heavy mixing after at most 5 minutes including preliminary mixing, or sooner if the model manual requires; rest mixer 20 minutes before continuing. Keep dough covered; refrigerate it during breaks if warm or greasy.",
+      "Continue in 2–3-minute runs at 2, with required rests, until satiny and stretchy and a small piece stretches into a thin translucent membrane. Allow roughly 8–15 minutes total active hook time, not one continuous run. Hand-finish if necessary. Never use source's speed 4.",
+      "Cover, rise roughly 1–2 hours until doubled. Gently deflate/fold, cover and refrigerate at least 8 hours (overnight).",
+      "Divide cold dough into three equal balls or braid; place in buttered tin. Cover, prove approximately 2–3 hours until doubled/puffy; cold dough may take longer. Glaze lightly with egg.",
+      "Bake 170°C conventional / 150°C fan 25–35 minutes until deeply golden and centre set; extend baking if needed and tent top if darkening. Cool in tin 5–10 minutes, then rack completely."
+    ],
+    "cue": "Satiny dough stretches into a thin translucent membrane; finished loaf is deeply golden with a set centre.",
+    "troubleshoot": "greasy dough: butter/dough too warm; chill briefly. Dough tears: use rest and further gentle development, not higher speed. Slow final proof: wait for puffiness rather than baking to the clock.",
+    "sources": [
+      {
+        "title": "KitchenAid: brioche bread",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/brioche-bread"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Approximately 577 g dough. Half-size source adaptation with shell-free egg weights. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping. KSM195 manual p. 5: mix and knead yeast dough at speed 2; do not use Stir/speed 1. Initial flex-edge mixing counts toward the heavy-run limit.",
+    "yield": "one small approximately 21 × 11 cm loaf, 8 slices.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "shortcrust-pastry",
+    "title": "Shortcrust pastry",
+    "category": "dough",
+    "equipment": "Mixer, pastry beater, scales, rolling pin, wrap, 23 cm tart tin, baking paper and baking weights",
+    "requirement": "standard",
+    "time": "2–2½ hours, including ≥60 minutes chilling, 20–30 minutes lined-tin chilling and blind baking",
+    "intro": "Visible pea-size butter pieces and minimal water help keep this pastry tender.",
+    "ingredients": [
+      "plain flour 250 g",
+      "cold cubed unsalted butter 125 g",
+      "fine salt 2 g",
+      "ice-cold water 35–50 ml",
+      "optional caster sugar 10 g for sweet pastry"
+    ],
+    "steps": [
+      "Fit the supplied pastry beater in the 4.7 L bowl. Combine flour and salt/sugar at speed 2 for 10 seconds. Add cold butter and mix at speed 2 for about 30–60 seconds, only until coarse crumbs with some pea-size butter pieces remain. Watch the texture rather than insisting on a timer.",
+      "At speed 2, add water in small increments for about 10–20 seconds total, stopping when a squeezed handful holds together. Finish pressing together by hand; do not knead smooth.",
+      "Flatten to disc, wrap and chill at least 60 minutes. Roll 3 mm thick, line tin without stretching; chill another 20–30 minutes.",
+      "For an unfilled shell, line with baking paper and baking weights. Bake 200°C conventional / 180°C fan, 15–20 minutes; remove weights/paper and bake 8–12 minutes more until base dry and golden. For filled pies/tarts, follow filling recipe's baking instructions instead."
+    ],
+    "cue": "Coarse crumbs before water; a squeezed handful holds together; baked shell has a dry golden base.",
+    "troubleshoot": "crumbly: add water 5 ml at a time; sticky/greasy: chill, not more vigorous mixing; shrinkage: avoid stretching and allow chilling. Never use dough hook for this pastry.",
+    "sources": [
+      {
+        "title": "KitchenAid: how to make homemade pie crust",
+        "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-make-homemade-pie-crust"
+      },
+      {
+        "title": "KitchenAid: types of pastry",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/types-of-pastry"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      },
+      {
+        "title": "KitchenAid AU: supplied pastry beater for KSM195",
+        "url": "https://kitchenaid.com.au/products/pastry-beater-standard-th-sm"
+      }
+    ],
+    "note": "Editorial classic 2:1 flour:butter shortcrust; source supports flat-beater technique, not this exact formula. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping. KSM195 adaptation: use the supplied pastry beater, supported by its AU manual, rather than requiring a separate flat beater.",
+    "yield": "pastry for one 23 cm single-crust tart, about 390–410 g.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "chocolate-chip-cookies",
+    "title": "Chocolate chip cookies",
+    "category": "batter",
+    "equipment": "Mixer, flex-edge beater, scales, lined baking trays and cooling rack",
+    "requirement": "standard",
+    "time": "35–65 minutes, including optional 20–30 minutes chilling and tray cooling",
+    "intro": "Weigh the beaten egg and yolk separately for a practical small batch without guessing half an egg.",
+    "ingredients": [
+      "soft unsalted butter 100 g",
+      "brown sugar 75 g",
+      "caster sugar 62 g",
+      "vanilla extract 5 ml",
+      "beaten whole egg 25 g",
+      "egg yolk 9 g",
+      "plain flour 138 g",
+      "bicarbonate of soda 1.2 g",
+      "fine salt 1 g",
+      "chocolate chips/chunks 100 g"
+    ],
+    "steps": [
+      "Combine butter/sugars on 2 30 seconds, then 4 for 2–3 minutes until pale and creamy; stop and scrape midway.",
+      "Add egg/yolk and vanilla; 4 about 30–60 seconds until emulsified.",
+      "Add flour, bicarb and salt at Stir for 15–30 seconds, just until no flour streaks. Add chocolate at Stir 5–10 seconds or fold by hand.",
+      "Scoop 40 g portions; chill 20–30 minutes if soft. Place well apart on lined cool trays. Bake 180°C conventional / 160°C fan 11–14 minutes until edges golden and centres still soft but not liquid. Rest on trays 5 minutes then rack."
+    ],
+    "cue": "Golden edges and soft but set centres, not liquid.",
+    "troubleshoot": "excess spread: chill dough, use cool trays and weigh flour; tough: shorten flour mixing; crisp not chewy: remove earlier at set edges, allowing carry-over cooking.",
+    "sources": [
+      {
+        "title": "KitchenAid: our go chewy choc chip cookies magdalena roze",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/our-go-chewy-choc-chip-cookies-magdalena-roze"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Approximately 516 g dough. Half-size adaptation; yield recalculated from actual dough mass, not the source's inconsistent cookie count. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping.",
+    "yield": "approximately 12 cookies at 40 g dough each.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "vanilla-butter-cake",
+    "title": "Vanilla butter cake",
+    "category": "batter",
+    "equipment": "Mixer, flex-edge beater, scales, 20 cm round tin and cooling rack",
+    "requirement": "standard",
+    "time": "1½–2 hours, including baking and full cooling",
+    "intro": "Room-temperature butter, eggs and milk help this small cake batter emulsify evenly.",
+    "ingredients": [
+      "soft unsalted butter 85 g",
+      "caster sugar 200 g",
+      "beaten eggs 100 g",
+      "plain flour 160 g",
+      "baking powder 4 g",
+      "fine salt 1.4 g",
+      "whole milk 120 ml",
+      "vanilla extract 4 ml"
+    ],
+    "steps": [
+      "Grease and line a 20 cm round tin. Heat oven 175°C conventional / 155°C fan. Combine butter/sugar 2 30–60 seconds; increase to 4–6 for 3–4 minutes until pale and fluffy, stopping to scrape.",
+      "Add egg gradually on 4, about 1 minute total, then vanilla. Scrape.",
+      "Sift flour, baking powder and salt. At Stir/2, alternate dry ingredients and milk in three additions; mix only until combined, roughly 30–60 seconds total. Hand-fold any flour pockets.",
+      "Scrape into tin; bake 30–40 minutes until centre springs back and skewer has no wet batter. Cool in tin 10–15 minutes, then rack completely."
+    ],
+    "cue": "Centre springs back and a skewer has no wet batter.",
+    "troubleshoot": "curdling: match egg/milk/butter temperatures; a little measured flour from the recipe can help. Dense cake: cream thoroughly but do not overmix flour. Brown top/wet middle: tent loosely and continue baking, checking oven temperature.",
+    "sources": [
+      {
+        "title": "KitchenAid: vanilla butter cake",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/vanilla-butter-cake"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Approximately 775 g batter. Small-batch editorial adaptation: source's combined baking-powder/bicarb text is malformed and includes bicarb without an obvious acidic ingredient; this draft deliberately uses 4 g baking powder only rather than silently reproducing that ambiguity. The changed formula must be kitchen-validated before describing as tested. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping.",
+    "yield": "one 20 cm round cake, 8 slices.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "pancakes",
+    "title": "Pancake batter",
+    "category": "batter",
+    "equipment": "Mixer, flex-edge beater, measuring jug, frying pan and stove",
+    "requirement": "standard",
+    "time": "30–45 minutes, including 10–20 minutes batter rest",
+    "intro": "Small lumps are welcome: stop mixing before the batter becomes completely smooth.",
+    "ingredients": [
+      "plain flour 150 g",
+      "caster sugar 20 g",
+      "baking powder 6 g",
+      "fine salt 1 g",
+      "milk 200 ml",
+      "beaten egg 50 g",
+      "neutral oil 15 ml",
+      "vanilla extract 5 ml",
+      "extra oil 5 ml for pan"
+    ],
+    "steps": [
+      "flex-edge beater, Stir dry ingredients 10–15 seconds. Precombine milk, egg, oil and vanilla in a jug.",
+      "Add liquids on Stir/2, 15–25 seconds only until no dry flour streaks; some small lumps should remain. Stop rather than beating smooth. Rest 10–20 minutes while heating pan.",
+      "Lightly grease pan on medium heat. Ladle about 60 ml batter per pancake. Cook 2–3 minutes until bubbles form and edges look set; flip once and cook 1–2 minutes more until golden underneath and centre cooked. Do not press flat."
+    ],
+    "cue": "Bubbles and set edges before flipping; golden underside and cooked centre afterward.",
+    "troubleshoot": "rubbery: overmixed or pressed after flipping; burnt outside/raw centre: lower heat; too thick after resting: stir in 5–10 ml extra milk by hand.",
+    "sources": [
+      {
+        "title": "KitchenAid: how to make homemade pancakes",
+        "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-make-homemade-pancakes"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Editorial small-batch formulation based on official ingredient list and mixer method; source does not provide quantities. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping.",
+    "yield": "approximately 8 pancakes using 60 ml batter each, 3–4 portions.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "crepe-batter",
+    "title": "Basic crêpe batter",
+    "category": "batter",
+    "requirement": "standard",
+    "bowl": "4.7 L stainless steel bowl",
+    "equipment": "KSM195, supplied flex-edge beater, jug, sieve, ladle, approximately 20 cm non-stick frying pan and thin spatula",
+    "yield": "Around 12 thin crêpes, depending on pan size and batter per crêpe",
+    "time": "About 10 minutes preparation, 30 minutes refrigerated resting and 15–20 minutes cooking",
+    "intro": "One thin, unsweetened batter for lemon and sugar, chocolate, or savoury fillings. No baking powder.",
+    "ingredients": [
+      "140 g plain flour",
+      "200 ml whole milk",
+      "100 ml water",
+      "2 eggs (about 100 g without shells)",
+      "25 g unsalted butter, melted and cooled slightly",
+      "A pinch of salt",
+      "A little extra butter for the pan"
+    ],
+    "steps": [
+      "In a jug, lightly beat eggs with milk and water. Fit the flex-edge beater in the 4.7 L bowl while the mixer is off and unplugged. Add sifted flour and salt; lower and lock the head.",
+      "On Stir, gradually pour in the liquid mixture, then use speed 2 briefly, about 30–60 seconds, just until smooth. Stop and scrape only while stopped. If small lumps remain, pass the batter through a sieve rather than beating it for several minutes. Do not use high-speed creaming or whipping.",
+      "Cover and refrigerate the batter for 30 minutes. Add the slightly cooled melted butter and combine at Stir for 5–10 seconds, or stir by hand. The batter should pour like thin cream; if too thick to swirl, add water 5–10 ml at a time.",
+      "Heat the pan over medium heat and very lightly grease with butter. For a roughly 20 cm pan, start with about 35–45 ml batter, immediately tilting and swirling to coat the base in a thin layer. Adjust the next crêpe to the pan.",
+      "Cook about 45–60 seconds until the surface is set and the underside lightly golden. Loosen the edge and flip; cook another 20–30 seconds until lightly freckled with no wet batter remaining. Adjust heat if it colours before setting.",
+      "Serve as you go, or stack with baking paper between crêpes. Add sweet or savoury fillings after cooking. Keep unused batter refrigerated at 4°C or below and use within 24 hours; do not taste raw batter."
+    ],
+    "cue": "Thin, pourable batter; cooked crêpes are flexible and lightly freckled, not thick or fluffy.",
+    "troubleshoot": "Rubbery: batter was overworked or crêpes overcooked. Thick: use less batter or thin with a little water. Sticking: let the pan warm properly, grease lightly and wait until the first side sets before flipping. The first crêpe is a useful test of pan heat and batter quantity.",
+    "sources": [
+      {
+        "title": "Good Food: classic crêpes",
+        "url": "https://www.bbcgoodfood.com/recipes/classic-crepes"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked mixing and tool guide",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Source-informed KSM195 adaptation, not kitchen-tested by us. Ingredient formula follows Good Food’s classic crêpes, including the 100 ml water specified in its method. Flex-edge mixing speeds/times, refrigerated rest and pan-volume guidance are editorial adaptations of its hand-whisk method. Use plain flour, not self-raising flour. No sugar is needed in the base, so it works for sweet and savoury fillings. Contains wheat, milk and eggs."
+  },
+  {
+    "id": "vanilla-buttercream",
+    "title": "Vanilla buttercream",
+    "category": "batter",
+    "equipment": "Mixer, flex-edge beater, scales, sieve and spatula",
+    "requirement": "standard",
+    "time": "15–20 minutes; cake must already be completely cool",
+    "intro": "Hold some cream back so the buttercream stays spreadable rather than runny.",
+    "ingredients": [
+      "softened unsalted butter 195 g",
+      "sifted pure icing sugar 300 g",
+      "pure cream 40 ml (hold some back)",
+      "vanilla extract 5 ml",
+      "fine salt 1 g"
+    ],
+    "steps": [
+      "Beat butter 2 30 seconds, then 4–6 2–3 minutes until creamy and paler. Stop and scrape.",
+      "Add icing sugar in three portions on Stir, roughly 30 seconds each until contained, then 4 2–3 minutes until light.",
+      "Add vanilla, salt and cream gradually at 2, about 30 seconds; hold back liquid once spreadable. Beat 4 1 minute, then 2 1–2 minutes to reduce large air bubbles. Use only on fully cooled cake."
+    ],
+    "cue": "Light, smooth, spreadable frosting without large air bubbles.",
+    "troubleshoot": "gritty: sift and use pure icing sugar; too loose: chill briefly, then beat at low speed; too firm: add cream 5 ml at a time; bubbles: final slow paddle mixing. Contains dairy: refrigerate covered and soften gently before rebeating.",
+    "sources": [
+      {
+        "title": "KitchenAid: vanilla cupcakes kirsten tibballs",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/vanilla-cupcakes-kirsten-tibballs"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Source uses vanilla beans and 3 tablespoons cream; metric draft deliberately uses extract and a restrained 40 ml cream, adding to texture rather than converting ambiguous tablespoon conventions. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping.",
+    "yield": "approximately 540 g, enough for 12 generously iced cupcakes or a modest coating on one 20 cm cake.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "baked-meringues",
+    "title": "Baked meringues",
+    "category": "batter",
+    "equipment": "Mixer, wire whisk, grease-free bowl, scales and lined trays",
+    "requirement": "standard",
+    "time": "2¾–4 hours, including 75–100 minutes baking and 1–2 hours oven cooling",
+    "intro": "Dissolve the sugar before piping for glossy meringues that dry without weeping.",
+    "ingredients": [
+      "egg whites 120 g (about 4 whites)",
+      "caster sugar 240 g",
+      "white vinegar 3 ml",
+      "vanilla extract 5 ml",
+      "cornflour 2 g"
+    ],
+    "steps": [
+      "Bowl and whisk must be scrupulously clean and grease-free. Whisk whites starting 2, then 6 for 1–3 minutes until soft peaks (tips droop).",
+      "Add sugar gradually, about 15 g every 15–20 seconds on 6–8, allowing roughly 4–6 minutes; whisk another 1–2 minutes if needed until stiff, glossy peaks and sugar feels dissolved when a little mixture is rubbed between clean fingers. Do not keep whipping once dry or clumpy.",
+      "Mix cornflour, vinegar and vanilla at Stir 5–10 seconds. Pipe/spoon 16 mounds onto lined trays.",
+      "Bake 110°C conventional / 90°C fan for about 75–100 minutes until dry to touch and releasing easily from paper; time depends on size. Turn off oven and cool inside, door slightly ajar, about 1–2 hours. Store fully cooled in airtight container. This is a baked sweet, not raw topping."
+    ],
+    "cue": "Stiff glossy peaks with dissolved sugar; baked meringues are dry and release from paper.",
+    "troubleshoot": "whites will not whip: any yolk/fat contamination means restart with clean equipment; gritty/weeping: add sugar more slowly and dissolve fully; cracks: lower oven temperature and cool slowly; sticky after cooling: humidity or insufficient drying, dry further in low oven.",
+    "sources": [
+      {
+        "title": "KitchenAid: petite sugar meringues 0",
+        "url": "https://kitchenaid.com.au/blogs/kitchenthusiast/petite-sugar-meringues-0"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Editorial all-caster-sugar adaptation at 2:1 sugar:white ratio; source uses mixed brown/caster sugar and a shorter, hotter bake. Research-based small-batch adaptation; not kitchen-tested. Do not taste raw dough or batter. Stop and unplug before tool changes; stop before scraping.",
+    "yield": "approximately 16 small meringues.",
+    "bowl": "2.8 L stainless steel bowl with wire whisk; 4.7 L bowl also available"
+  },
+  {
+    "id": "egg-pasta",
+    "title": "Egg pasta & tagliatelle",
+    "category": "pasta",
+    "equipment": "mixer bowl, dough hook; compatible KitchenAid pasta roller; scales, wrap/container, bench scraper, sharp knife and board, dusted tray/rack, large saucepan. Fettuccine cutter is optional, but produces 6.5 mm fettuccine, not an attachment expressly named tagliatelle.",
+    "requirement": "roller",
+    "time": "1–1½ hours, including 30-minute dough rest, rolling and cooking",
+    "intro": "A weighed egg-to-flour ratio makes consistent sheets and wider hand-cut tagliatelle.",
+    "ingredients": [
+      "300 g plain/all-purpose flour or pasta-grade tipo 00",
+      "150 g beaten whole egg without shells (about 3 medium-to-large eggs, weigh rather than assume)",
+      "0–15 g water only as needed",
+      "optional 1 g fine salt",
+      "15–25 g additional flour for dusting (not automatically mixed into dough)"
+    ],
+    "steps": [
+      "Stop and unplug before tool or attachment changes. Dough-hook kneading and the documented pasta roller both use mixer speed 2, not the thickness dial. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or use a stricter manual limit. Hand-finish if the motor strains.",
+      "In the 4.7 L bowl, mix flour and optional salt with the weighed egg by hand using a fork or spatula, until squeezed crumbs hold together. Add water 2–5 g at a time only if needed. The supplied flex-edge beater is not required for these stiff crumbs.",
+      "Stop, fit the dough hook, knead speed 2 for about 2 minutes. A stiff pasta dough may not form a perfect mixer ball. Gather and finish by hand briefly if necessary rather than running a struggling motor longer. Aim for firm, pliable dough, not wet/sticky bread dough.",
+      "Wrap and rest 30 minutes at cool room temperature. Keep unused quarters covered. Divide into four pieces; flatten each by hand.",
+      "Roller at mixer speed 2, thickness dial 1: pass, fold in half and pass again about 3 times, until smooth and cohesive. Dust very lightly. Then pass progressively at dials 2, 3, 4, 5, without folding. Dial 4–5 is the official sheet/fettuccine range. Use 5 for this starting recipe; thickness and tenderness are the cues, not a universal millimetre claim.",
+      "Sheets: cut to pan size, keep covered until cooking or filling. Tagliatelle: let sheets become touch-dry 5–10 minutes, still flexible, dust, loosely fold and cut by hand into 7–8 mm ribbons, then uncoil. Alternative: fit the 6.5 mm fettuccine cutter while unplugged and run at speed 5; label result fettuccine.",
+      "Boil ribbons in generously salted water; check after 60–90 seconds, usually 2–4 minutes depending on thickness. Bite should be tender with a slight resistance, not a raw floury core. Sheets used in lasagne need a separate assembly/baking recipe; do not imply the sheet-making card is a complete safe baked dish.",
+      "Never taste uncooked flour or dough. Keep egg dough and ricotta at 4°C or below when holding; refrigerate promptly and use by the next day or freeze. Let roller debris dry about 1 hour and brush out; never immerse, dishwash, run a cloth through rollers or scrape with a knife."
+    ],
+    "cue": "Firm pliable dough, smooth flexible sheets; cooked ribbons have slight resistance but no raw floury core.",
+    "troubleshoot": "cracks or tearing: hydrate sparingly and rest, avoid jumping thin settings; shrinking: cover and rest another 10 minutes; sticking: dust lightly and let surface dry briefly; cutters fail to separate: sheets too wet or too thick, allow touch-drying. Do not keep adding flour until dough is brittle. Refrigerate promptly or freeze dusted nests individually before bagging.",
+    "sources": [
+      {
+        "title": "KitchenAid perfect dough and speed 2 paddle",
+        "url": "https://www.kitchenaid.co.uk/faq/making-perfect-pasta-dough"
+      },
+      {
+        "title": "official mix/hook sequence + hand ravioli",
+        "url": "https://www.kitchenaid.co.uk/mixers/pasta-makers"
+      },
+      {
+        "title": "official rest/rolling/cooking",
+        "url": "https://www.kitchenaid.co.uk/blog/how-to-make-homemade-pasta"
+      },
+      {
+        "title": "Official product tips",
+        "url": "https://www.kitchenaid.com/countertop-appliances/product-tips/mixer-attachments/pasta-cutter-and-roller"
+      },
+      {
+        "title": "Official manual",
+        "url": "https://api.whirlpoolcentral.ca/_resources/documents/KSMPRA_use_and_care_en.pdf"
+      },
+      {
+        "title": "Official roller chart",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Pasta_and_Grains/Pasta_Sheet_Roller/Using_the_Pasta_Sheet_Roller"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "editorial home-batch formulation using the classic approximately 100 g flour : 50 g whole egg ratio, with official KitchenAid mixing/rolling technique. Not an exact reproduction of its manual's larger flour-measured recipe. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. KSM195 adaptation: stiff pasta crumbs are initially combined by hand, then briefly worked with the supplied dough hook; no separate flat beater is assumed.",
+    "yield": "about 450–465 g dough; 3 generous or 4 moderate main-course portions; sheets or ribbons as required.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "semolina-pasta",
+    "title": "Egg-free semolina pasta",
+    "category": "pasta",
+    "equipment": "bowl, dough hook, scraper, board; optional roller and knife; pot/tray.",
+    "requirement": "standard",
+    "time": "1–1½ hours, including 30–45 minutes dough rest and hand shaping",
+    "intro": "Finely remilled durum semolina hydrates into firm, egg-free dough suited especially to hand shapes.",
+    "ingredients": [
+      "300 g fine semola rimacinata di grano duro (finely remilled durum semolina, not coarse semolina pudding grains)",
+      "150 g warm water",
+      "extra 10–20 g semolina for dusting",
+      "optional 1 g fine salt"
+    ],
+    "steps": [
+      "Stop and unplug before tool or attachment changes. Dough-hook kneading and the documented pasta roller both use mixer speed 2, not the thickness dial. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or use a stricter manual limit. Hand-finish if the motor strains.",
+      "In the 4.7 L bowl, combine fine semolina and warm water by hand using a fork or spatula until cohesive crumbs form. Fit the dough hook and work at speed 2 for about 2 minutes; hand-finish until smooth, roughly 5–8 more minutes as needed, rather than forcing a struggling mixer.",
+      "Cover and rest 30–45 minutes to hydrate fully. Shape small cavatelli or orecchiette by hand, or divide into quarters and roll with the optional roller at mixer speed 2: start thickness dial 1, fold until smooth, then narrow progressively to 4–5. Hand-cut ribbons. Cook in salted boiling water, checking from 2–3 minutes; thick hand shapes may take 4–6 minutes or longer. Cook until no hard or raw centre remains.",
+      "Never taste raw flour or dough. Refrigerate promptly when holding and use by the next day or freeze. If using a roller, let dough debris dry about 1 hour and brush out; never immerse, dishwash, run a cloth through rollers or scrape with a knife."
+    ],
+    "cue": "Firm dough becomes supple after resting; cooked shapes have no hard or raw centre.",
+    "troubleshoot": "dough feels relatively firm at first and becomes supple with rest. Sandy cracking: use finer flour, longer covered rest, or knead with wet hands; do not pour in large extra quantities of water. Sticky: tiny dusting of semolina. If it resists rolling, use hand shapes or rest longer rather than forcing it. Egg-free is still wheat-containing and raw flour is still unsafe to taste.",
+    "sources": [
+      {
+        "title": "pasta specialist, exact ratio/rest",
+        "url": "https://noregrettispaghetti.co/semolina-pasta-dough/"
+      },
+      {
+        "title": "Nudo supporting 2:1 ratio",
+        "url": "https://www.nudopastatools.com/recipes/semolinapastadough"
+      },
+      {
+        "title": "Official product tips",
+        "url": "https://www.kitchenaid.com/countertop-appliances/product-tips/mixer-attachments/pasta-cutter-and-roller"
+      },
+      {
+        "title": "Official manual",
+        "url": "https://api.whirlpoolcentral.ca/_resources/documents/KSMPRA_use_and_care_en.pdf"
+      },
+      {
+        "title": "Official roller chart",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Pasta_and_Grains/Pasta_Sheet_Roller/Using_the_Pasta_Sheet_Roller"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "¾ of pasta specialist Gabriella Simonian's 400 g flour / 200 ml water recipe; mixer-assisted initial mixing is editorial and follows KitchenAid's conservative pasta sequence rather than the source's hand kneading. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. KSM195 adaptation: stiff pasta crumbs are initially combined by hand, then briefly worked with the supplied dough hook; no separate flat beater is assumed.",
+    "yield": "about 450 g dough, 3–4 portions. Best suited to hand shapes; roller ribbons are an option, not a promise that every coarse semolina flour will roll well.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "ricotta-ravioli",
+    "title": "Ricotta ravioli",
+    "category": "pasta",
+    "equipment": "mixer/pasta roller; bowl, teaspoon or piping bag, pastry brush, pasta wheel/knife, dusted tray; no ravioli-making attachment required.",
+    "requirement": "roller",
+    "time": "1½–2 hours from raw dough, including dough rest, rolling, filling and cooking",
+    "intro": "Drained ricotta and air-free seams matter more than a specialist ravioli-making attachment.",
+    "ingredients": [
+      "450 g egg pasta dough: 300 g plain or tipo 00 flour, 150 g beaten whole egg, 0–15 g water as needed, optional 1 g salt; 15–25 g extra flour for dusting",
+      "300 g pasteurized ricotta, well drained",
+      "38 g finely grated Parmesan",
+      "finely grated zest of ½ lemon",
+      "0.5 g black pepper",
+      "up to 1 g salt, adjusted for cheese",
+      "a little water to seal"
+    ],
+    "steps": [
+      "Stop and unplug before tool or attachment changes. Dough-hook kneading and the documented pasta roller both use mixer speed 2, not the thickness dial. Count preliminary heavy mixing toward a maximum 5-minute heavy-mixing run, then rest the mixer 20 minutes before continuing, or use a stricter manual limit. Hand-finish if the motor strains.",
+      "Prepare 450 g egg pasta dough: mix 300 g plain or tipo 00 flour with 150 g weighed beaten egg using the flex-edge beater at speed 2 for about 30 seconds. If crumbs will not cohere, add water 2–5 g at a time, up to 15 g. Hook at speed 2 for about 2 minutes, hand-finish briefly, wrap and rest 30 minutes. Reserve 15–25 g extra flour for light dusting; optional 1 g salt belongs in the dough.",
+      "Divide dough into four pieces and keep waiting pieces covered. Flatten one piece by hand. With mixer at speed 2 and roller thickness dial 1, pass, fold and repeat about three times until smooth. Narrow progressively through dials 2, 3, 4 and 5 without further folding; use only light dusting. Then fill and seal by hand.",
+      "keep ricotta cold; drain until it holds a mound without weeping. Mix filling by hand. Roll dough as described above to thickness dial 5, within the official KitchenAid ravioli range. Fill one workable sheet at a time, keeping the others covered. Place about 7–9 g filling per raviolo, leaving at least 1 cm sealing margin. Lightly dampen bare margins only if necessary. Cover with another sheet or fold; press out air from around each mound, then press margins firmly and cut. Do not flour sealing surfaces heavily. Cook promptly in gently boiling salted water about 3–4 minutes, checking a piece: pasta edges should be tender and filling hot. Floating alone is not proof of doneness. Refrigerate overnight at most or freeze on a tray until solid (about 1–2 hours) then bag; cook from frozen, allowing extra time and checking centre rather than promising a fixed number.",
+      "Never taste uncooked flour or dough. Keep egg dough and ricotta at 4°C or below when holding; refrigerate promptly and use by the next day or freeze. Let roller debris dry about 1 hour and brush out; never immerse, dishwash, run a cloth through rollers or scrape with a knife."
+    ],
+    "cue": "Seams are firmly sealed with no trapped air; cooked edges are tender and the filling hot.",
+    "troubleshoot": "bursts: trapped air, excess filling or vigorous boil; leaking seams: flour on seal, dried sheets or over-wetting; watery centre: insufficiently drained ricotta. Keep filling cold while rolling, do not leave assembled trays out all afternoon. A raw meat filling would need a separate validated safe-cooking method and is not covered here.",
+    "sources": [
+      {
+        "title": "KitchenAid ricotta filling and hand-sealing method",
+        "url": "https://www.kitchenaid.co.uk/recipes/valentines-day-pasta"
+      },
+      {
+        "title": "official hand ravioli guidance",
+        "url": "https://www.kitchenaid.co.uk/mixers/pasta-makers"
+      },
+      {
+        "title": "official overnight refrigeration / tray freezing",
+        "url": "https://www.kitchenaid.co.uk/faq/making-ravioli-with-ravioli-maker"
+      },
+      {
+        "title": "Official product tips",
+        "url": "https://www.kitchenaid.com/countertop-appliances/product-tips/mixer-attachments/pasta-cutter-and-roller"
+      },
+      {
+        "title": "Official manual",
+        "url": "https://api.whirlpoolcentral.ca/_resources/documents/KSMPRA_use_and_care_en.pdf"
+      },
+      {
+        "title": "Official roller chart",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Pasta_and_Grains/Pasta_Sheet_Roller/Using_the_Pasta_Sheet_Roller"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "one egg-pasta batch from the egg pasta recipe; ricotta filling based on KitchenAid's 200 g ricotta / 25 g Parmesan filling, scaled 1½ times. Beetroot dough is deliberately not used. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C.",
+    "yield": "roughly 30–40 ravioli at about 5 cm each; 3–4 mains. Count varies with sheet trimming and filling size.",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "quick-churn-vanilla",
+    "title": "Quick vanilla — churn and eat",
+    "category": "frozen",
+    "requirement": "icecream",
+    "bowl": "Optional 5KSMICM freeze bowl, completely frozen before use",
+    "equipment": "KSM195, compatible pre-frozen 5KSMICM bowl, its dasher and drive, measuring jug and spoon; no wire whisk for churning",
+    "yield": "Approximately 800 ml–1 L soft ice cream, about 6 small servings; aeration varies",
+    "time": "About 5 minutes mixing + 20–30 minutes churning, once the bowl is fully frozen; no freezer-hardening wait for soft-serve",
+    "intro": "Four ingredients, no eggs, no cooking. Churn a cold base and eat it straight from the bowl as soft-serve.",
+    "ingredients": [
+      "400 ml refrigerator-cold pasteurized whipping cream (about 35% fat)",
+      "200 ml refrigerator-cold pasteurized whole milk",
+      "125 g caster sugar",
+      "5 ml vanilla extract"
+    ],
+    "steps": [
+      "Freeze the attachment bowl fully beforehand. The AU 5KSMICM page specifies 16 hours minimum; plan at least 24 hours and follow your exact manual. A bowl merely chilled in the refrigerator will not freeze ice cream. Keep it in the freezer until the base is ready.",
+      "In a jug, stir the cold milk and caster sugar for 1–2 minutes until the sugar dissolves. Gently stir in the cold cream and vanilla—do not whip them. Keep the base refrigerator-cold, ideally 4°C or below; if it warms during preparation, refrigerate until properly cold before proceeding. No extra overnight chilling is needed when the base is already cold.",
+      "With the mixer off and unplugged, fit the frozen bowl, correct dasher and drive assembly for the KSM195. Lower and lock the head. Start on Stir / the lowest speed BEFORE slowly pouring in the cold base. The approximately 700 ml starting base is below the documented 1.4 L starting-liquid limit.",
+      "Churn on Stir for about 20–30 minutes, checking the texture. Stop when thick, spoonable and holding soft ridges, like soft-serve. Do not increase speed or keep churning to force firm scoops; stop immediately if the dasher stalls.",
+      "Serve straight away in chilled bowls or cones. This is ready to eat but softer than tub ice cream. Only if you want firmer scoops, transfer to a covered freezer-safe container and freeze 2–4 hours. Freeze any leftovers promptly; fully refreeze the attachment bowl before another batch."
+    ],
+    "cue": "Thick, spoonable soft-serve with ridges left by the dasher—not firm supermarket-style scoops.",
+    "troubleshoot": "Still liquid: the bowl was not completely frozen, the base was too warm, the batch too large or assembly incorrect. Stop and refrigerate the base; fully refreeze the bowl before retrying. Butter flecks or a greasy texture: overchurning; stop as soon as soft-serve is ready. Do not reduce the sugar casually—it affects freezing, not only sweetness.",
+    "sources": [
+      {
+        "title": "Joy of Baking: easy egg-free, no-cook vanilla ice cream",
+        "url": "https://www.joyofbaking.com/icecreamrecipes/EasyVanillaIceCream.html"
+      },
+      {
+        "title": "KitchenAid AU: 5KSMICM compatibility and bowl-freezing time",
+        "url": "https://kitchenaid.com.au/products/ice-cream-bowl-attachment"
+      },
+      {
+        "title": "KitchenAid: start on Stir before adding cold base",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Making_an_Ice_Cream"
+      }
+    ],
+    "note": "Source-informed adaptation, not kitchen-tested by us. Joy of Baking’s cream/milk/sugar formula is scaled to five-sixths (400 ml / 200 ml / 125 g); vanilla is rounded to 5 ml and optional salt/milk powder omitted for a four-ingredient starter. KitchenAid-specific assembly, churning and immediate soft-serve service are added. No overnight base chilling or post-churn hardening is needed if the ingredients start and remain refrigerator-cold; the bowl must already be fully frozen. Contains milk. This is distinct from the whisk-and-freeze condensed-milk recipe."
+  },
+  {
+    "id": "basic-vanilla-ice-cream",
+    "title": "The most basic vanilla ice cream",
+    "category": "frozen",
+    "equipment": "KSM195, supplied wire whisk, refrigerator, spatula and covered freezer-safe container; no ice-cream attachment",
+    "bowl": "4.7 L stainless steel bowl with wire whisk",
+    "requirement": "standard",
+    "yield": "Approximately 1.2–1.5 L, about 8 servings; yield depends on aeration",
+    "time": "About 5–10 minutes preparation, then at least 6 hours freezing; overnight is easiest",
+    "intro": "Three ingredients. Whisk, freeze, scoop. No eggs, cooking or special attachment.",
+    "ingredients": [
+      "600 ml cold pasteurized pure or thickened whipping cream (about 35% fat; not light cream)",
+      "395 g sweetened condensed milk (one standard Australian can; not evaporated milk)",
+      "10 ml vanilla extract or vanilla bean paste"
+    ],
+    "steps": [
+      "Fit the wire whisk in the 4.7 L bowl while the mixer is off and unplugged. Use refrigerator-cold cream and preferably chilled condensed milk. Add cream, condensed milk and vanilla; lower and lock the head.",
+      "Start at speed 2 to combine, then gradually increase to 6–8. Whisk until thick and airy with soft peaks that gently droop—usually a few minutes. Watch continuously and stop before it becomes grainy or separates; do not chase a fixed mixing time.",
+      "Scrape into a shallow freezer-safe container, cover and freeze at −18°C or colder for at least 6 hours, preferably overnight, until firm through the centre. Do not freeze it in the mixer bowl if you need that bowl for another job.",
+      "Let stand briefly, about 5–10 minutes, before scooping. Return the container to the freezer promptly; avoid repeated thawing and refreezing. Hand-wash the KSM195 wire whisk."
+    ],
+    "cue": "Thick, airy soft peaks before freezing; firm through the centre after freezing.",
+    "troubleshoot": "If it will not whip, check that the cream is cold and full-fat whipping cream, not light or cooking cream. If grainy, stop: it is overwhipped. If hard straight from the freezer, allow a few minutes to soften. Condensed milk supplies the sugar as well as milk solids; evaporated milk is not a substitute.",
+    "sources": [
+      {
+        "title": "Waitrose: quick no-churn vanilla ice cream",
+        "url": "https://www.waitrose.com/ecom/recipe/quick-no-churn-vanilla-ice-cream"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked tool and cleaning manual",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Source-informed no-churn adaptation, not kitchen-tested by us. Based on Waitrose’s 600 ml whipping cream / 397 g condensed milk / 2 tsp vanilla formula; uses an Australian 395 g can, 10 ml vanilla and omits its optional pinch of salt. Stand-mixer speed progression and six-hour/overnight freeze planning are editorial adaptations. Contains dairy. This is no-churn ice cream, not a recipe for the 5KSMICM bowl: skip the frozen-bowl preparation and do not churn this whipped mixture."
+  },
+  {
+    "id": "vanilla-ice-cream",
+    "title": "Vanilla custard ice cream",
+    "category": "frozen",
+    "equipment": "Compatible mixer and pre-frozen ice-cream bowl, correct dasher and drive, scales, measuring jug, silicone spatula and covered shallow freezer container; saucepan, whisk, fine sieve, thermometer and ice-water bath",
+    "requirement": "icecream",
+    "time": "7–10 hours after bowl is frozen, including ≥4 hours base chilling and 2–4 hours hardening; freeze bowl ≥24 hours ahead",
+    "intro": "A thermometer takes the guesswork out of safely thickening this egg custard.",
+    "ingredients": [
+      "200 ml whole milk",
+      "400 ml pure or thickened whipping cream, about 35% fat",
+      "120 g sugar",
+      "4 large egg yolks (about 65–75 g)",
+      "5 ml vanilla extract (or ½ split vanilla pod plus a little extract)",
+      "0.5 g salt"
+    ],
+    "steps": [
+      "Freeze the compatible ice-cream bowl for at least 24 hours; follow the exact attachment manual if it requires longer. Use pasteurized dairy where specified.",
+      "heat milk, sugar and salt until steaming and dissolved.",
+      "If using pod, scrape seeds in, cover off heat and infuse 30–60 minutes, then rewarm.",
+      "Whisk yolks in a bowl; gradually whisk in a little warm milk, then return to saucepan.",
+      "Stir/scrape continuously on gentle heat to 77–82°C, until custard coats the spatula and a finger-drawn line stays clear; do not boil.",
+      "Strain immediately into the cream, stir in vanilla and cool in an ice bath.",
+      "Refrigerate at least 4 hours, preferably overnight until ≤4°C.",
+      "Remove pod.",
+      "Chill the base to 4°C or below. Measure its cooled volume: the maximum starting base is 1.4 L, not the 1.9 L finished capacity. Do not double this batch blindly.",
+      "Stop and unplug to fit the frozen bowl, correct dasher and drive. Start the dasher on Stir / lowest speed before pouring in the cold base; never pour into a stationary dasher. Churn about 20–30 minutes until thick soft-serve with tracks and ridges. Stop immediately if the dasher stalls; do not increase speed.",
+      "Pack into a cold covered shallow container and freeze at −18°C or colder 2–4 hours until scoopable. Completely refreeze the bowl before another batch; allow it to reach room temperature before hand-washing and follow its generation-specific cleaning instructions."
+    ],
+    "cue": "Custard reaches 77–82°C and coats a spatula with a clear drawn line; churned ice cream forms thick soft-serve ridges.",
+    "troubleshoot": "scrambled flecks mean overheating; immediate fine straining may help small flecks but a severely curdled/scorched batch will not become smooth ice cream. Do not use a spoon-coating cue as a replacement for thermometer safety. Icy: insufficiently frozen bowl/warm base or reduced sugar/fat; butter flecks: overchurning very fatty cream. Use pasteurized dairy and preferably yolks. If the base stays liquid after 20–30 minutes, stop and refrigerate it; check bowl freeze, base temperature, assembly and volume before retrying with a fully refrozen bowl. Never solve a stalled dasher with more speed or hot water.",
+    "sources": [
+      {
+        "title": "Lebovitz exact starting formula and method",
+        "url": "https://www.davidlebovitz.com/vanilla-ice-cream/"
+      },
+      {
+        "title": "King Arthur custard temperature 170–180°F",
+        "url": "https://www.kingarthurbaking.com/recipes/vanilla-bean-ice-cream-recipe"
+      },
+      {
+        "title": "Official tips",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Tips_for_Great_Results"
+      },
+      {
+        "title": "current US KSMICM",
+        "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.ice-cream-maker-attachment.KSMICM.html"
+      },
+      {
+        "title": "Making ice cream",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Making_an_Ice_Cream"
+      },
+      {
+        "title": "UK 5KSMICM capacity",
+        "url": "https://www.kitchenaid.co.uk/mixer-attachments/859711690400/ice-cream-maker-5ksmicm-white"
+      },
+      {
+        "title": "US attachment guide",
+        "url": "https://www.kitchenaid.com/content/dam/kitchenaid/en_us/attachments/KitchenAid%20Attachment%20Guide-new.pdf"
+      },
+      {
+        "title": "FDA: homemade ice cream safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/enjoying-homemade-ice-cream-without-risk-salmonella-infection"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "80% of David Lebovitz's public vanilla recipe, using extract rather than a full vanilla-bean infusion; cooling/safety and KitchenAid steps added. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. Churn prepared bases within 24 hours; enjoy within 1–2 weeks for best texture, not a validated shelf-life promise. Exact attachment generation and country determine compatibility; this bowl is not universal.",
+    "yield": "roughly 0.75 L cold base, 0.85–1.0 L finished, 6–8 small servings.",
+    "bowl": "Optional 5KSMICM freeze bowl replaces the normal mixing bowl for churning"
+  },
+  {
+    "id": "chocolate-ice-cream",
+    "title": "No-egg chocolate ice cream",
+    "category": "frozen",
+    "equipment": "Compatible mixer and pre-frozen ice-cream bowl, correct dasher and drive, scales, measuring jug, silicone spatula and covered shallow freezer container; saucepan, whisk, fine sieve, thermometer and ice-water bath",
+    "requirement": "icecream",
+    "time": "8–10 hours after bowl is frozen, including ≥4 hours chilling and 3–4 hours hardening; freeze bowl ≥24 hours ahead",
+    "intro": "Cooked starch and melted chocolate give this egg-free ice cream its dense texture.",
+    "ingredients": [
+      "32 g Dutch-process unsweetened cocoa",
+      "149 g sugar",
+      "19 g cornstarch",
+      "0.8 g salt",
+      "170 g water",
+      "341 g whole milk",
+      "128 g chopped semisweet chocolate",
+      "optional 5 ml vanilla extract"
+    ],
+    "steps": [
+      "Freeze the compatible ice-cream bowl for at least 24 hours; follow the exact attachment manual if it requires longer. Use pasteurized dairy where specified.",
+      "whisk cocoa, sugar, starch and salt in saucepan.",
+      "Gradually whisk in cold water and milk until smooth.",
+      "Heat with frequent stirring, then near-constant stirring as hot, until the mixture comes to a boil and thickens.",
+      "Remove from heat, add chocolate and stir until glossy and fully melted; add vanilla.",
+      "Cool promptly in an ice bath, cover and chill 4 hours or overnight.",
+      "Stir the cold thick base smooth and verify volume.",
+      "Chill the base to 4°C or below. Measure its cooled volume: the maximum starting base is 1.4 L, not the 1.9 L finished capacity. Do not double this batch blindly.",
+      "Stop and unplug to fit the frozen bowl, correct dasher and drive. Start the dasher on Stir / lowest speed before pouring in the cold base; never pour into a stationary dasher. Churn about 20–30 minutes until thick soft-serve with tracks and ridges. Stop immediately if the dasher stalls; do not increase speed.",
+      "Pack into a cold covered shallow container and freeze at −18°C or colder 3–4 hours until scoopable. Completely refreeze the bowl before another batch; allow it to reach room temperature before hand-washing and follow its generation-specific cleaning instructions."
+    ],
+    "cue": "Base boils and thickens, then becomes glossy as chocolate melts; churn to dense soft-serve.",
+    "troubleshoot": "lumps: slurry was incompletely dispersed; sieve while still warm. Scorching: insufficient scraping or excessive heat; burned flavour cannot be strained away. Very hard after overnight freezing is expected with this alcohol-free source adaptation; temper 10–20 minutes, longer if needed, rather than cut sugar radically. Use pasteurized milk; check chocolate allergens. Cornstarch is not instant ClearJel and must be cooked. If the base stays liquid after 20–30 minutes, stop and refrigerate it; check bowl freeze, base temperature, assembly and volume before retrying with a fully refrozen bowl. Never solve a stalled dasher with more speed or hot water.",
+    "sources": [
+      {
+        "title": "King Arthur Chocolate Decadence, egg-free public recipe",
+        "url": "https://www.kingarthurbaking.com/recipes/chocolate-decadence-ice-cream-recipe"
+      },
+      {
+        "title": "Official tips",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Tips_for_Great_Results"
+      },
+      {
+        "title": "current US KSMICM",
+        "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.ice-cream-maker-attachment.KSMICM.html"
+      },
+      {
+        "title": "Making ice cream",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Making_an_Ice_Cream"
+      },
+      {
+        "title": "UK 5KSMICM capacity",
+        "url": "https://www.kitchenaid.co.uk/mixer-attachments/859711690400/ice-cream-maker-5ksmicm-white"
+      },
+      {
+        "title": "US attachment guide",
+        "url": "https://www.kitchenaid.com/content/dam/kitchenaid/en_us/attachments/KitchenAid%20Attachment%20Guide-new.pdf"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "approximately ¾ of King Arthur's Chocolate Decadence recipe, rounded to practical grams; alcohol omitted, so temper before scooping. This is milk/chocolate-based ice cream, not dairy-free, and not a no-churn recipe. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. Churn prepared bases within 24 hours; enjoy within 1–2 weeks for best texture, not a validated shelf-life promise. Exact attachment generation and country determine compatibility; this bowl is not universal.",
+    "yield": "roughly 0.75–0.85 L base, about 0.7–0.9 L dense finished ice cream, 6–8 small servings; the source has low overrun.",
+    "bowl": "Optional 5KSMICM freeze bowl replaces the normal mixing bowl for churning"
+  },
+  {
+    "id": "strawberry-sorbet",
+    "title": "Strawberry sorbet",
+    "category": "frozen",
+    "equipment": "Compatible mixer and pre-frozen ice-cream bowl, correct dasher and drive, scales, measuring jug, silicone spatula and covered shallow freezer container; blender and sieve",
+    "requirement": "icecream",
+    "time": "5–8 hours after bowl is frozen, including 2–3 hours chilling and 2–4 hours hardening; freeze bowl ≥24 hours ahead",
+    "intro": "Measure the berry purée rather than the whole fruit to keep the sugar ratio consistent.",
+    "ingredients": [
+      "Washed, hulled ripe strawberries to yield 600 ml smooth purée (buy about 700–800 g; exact requirement varies)",
+      "125 g sugar",
+      "5–10 ml lemon juice, to taste",
+      "0.5 g salt"
+    ],
+    "steps": [
+      "Freeze the compatible ice-cream bowl for at least 24 hours; follow the exact attachment manual if it requires longer. Use pasteurized dairy where specified.",
+      "blend berries smooth, measure 600 ml purée, blend sugar in about 30 seconds until dissolved; add lemon and salt.",
+      "Optional fine straining for fewer seeds (measure after straining if strict consistency is wanted).",
+      "Chill 2–3 hours or longer to ≤4°C.",
+      "Chill the base to 4°C or below. Measure its cooled volume: the maximum starting base is 1.4 L, not the 1.9 L finished capacity. Do not double this batch blindly.",
+      "Stop and unplug to fit the frozen bowl, correct dasher and drive. Start the dasher on Stir / lowest speed before pouring in the cold base; never pour into a stationary dasher. Churn about 20–30 minutes until thick soft-serve with tracks and ridges. Stop immediately if the dasher stalls; do not increase speed.",
+      "Pack into a cold covered shallow container and freeze at −18°C or colder 2–3 hours, allowing 4 hours if still soft until scoopable. Completely refreeze the bowl before another batch; allow it to reach room temperature before hand-washing and follow its generation-specific cleaning instructions."
+    ],
+    "cue": "Sugar grains dissolve completely; churned sorbet is thick and spoonable.",
+    "troubleshoot": "cold base tastes slightly sweeter/sharper than the desired frozen result. No crunchy sugar grains should remain. Hard/icy: underripe fruit or too little sugar; syrupy/slushy: excess sugar or insufficient freezing. Sugar is structural here, not just optional sweetness. Do not add lots of water to ease blending. Wash fruit; freezing raw fruit does not sanitize it. No raw-shell-egg 'float test' is recommended. If the base stays liquid after 20–30 minutes, stop and refrigerate it; check bowl freeze, base temperature, assembly and volume before retrying with a fully refrozen bowl. Never solve a stalled dasher with more speed or hot water.",
+    "sources": [
+      {
+        "title": "Serious Eats strawberry recipe",
+        "url": "https://www.seriouseats.com/quick-easy-strawberry-sorbet-recipe"
+      },
+      {
+        "title": "sorbet science, fruit/sugar variability",
+        "url": "https://www.seriouseats.com/how-to-make-the-best-sorbet"
+      },
+      {
+        "title": "Official tips",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Tips_for_Great_Results"
+      },
+      {
+        "title": "current US KSMICM",
+        "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.ice-cream-maker-attachment.KSMICM.html"
+      },
+      {
+        "title": "Making ice cream",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Making_an_Ice_Cream"
+      },
+      {
+        "title": "UK 5KSMICM capacity",
+        "url": "https://www.kitchenaid.co.uk/mixer-attachments/859711690400/ice-cream-maker-5ksmicm-white"
+      },
+      {
+        "title": "US attachment guide",
+        "url": "https://www.kitchenaid.com/content/dam/kitchenaid/en_us/attachments/KitchenAid%20Attachment%20Guide-new.pdf"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "scaled from Max Falkowitz's Serious Eats ratio one quarter cup sugar per cup berry purée, converted to a practical metric starting formula. Measure purée volume; fruit ripeness can change texture. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. Churn prepared bases within 24 hours; enjoy within 1–2 weeks for best texture, not a validated shelf-life promise. Exact attachment generation and country determine compatibility; this bowl is not universal.",
+    "yield": "about 0.68–0.75 L base, 0.75–0.9 L finished, 6 small servings.",
+    "bowl": "Optional 5KSMICM freeze bowl replaces the normal mixing bowl for churning"
+  },
+  {
+    "id": "lemon-sorbet",
+    "title": "Lemon sorbet",
+    "category": "frozen",
+    "equipment": "Compatible mixer and pre-frozen ice-cream bowl, correct dasher and drive, scales, measuring jug, silicone spatula and covered shallow freezer container; blender and sieve",
+    "requirement": "icecream",
+    "time": "5–8 hours after bowl is frozen, including ≥2 hours chilling and 2–4 hours hardening; freeze bowl ≥24 hours ahead",
+    "intro": "The split water addition preserves the published citrus formula without relying on a fixed lemon count.",
+    "ingredients": [
+      "225 g caster sugar",
+      "350 ml water total (250 ml syrup + 100 ml cold water)",
+      "225 ml freshly squeezed lemon juice, strained",
+      "finely grated yellow zest of 2–3 washed unwaxed lemons (no white pith). No alcohol or raw egg"
+    ],
+    "steps": [
+      "Freeze the compatible ice-cream bowl for at least 24 hours; follow the exact attachment manual if it requires longer. Use pasteurized dairy where specified.",
+      "slowly heat sugar with 250 ml water, stir until dissolved, boil 2 minutes, remove from heat.",
+      "Add zest and lemon juice; cool promptly.",
+      "Refrigerate at least 2 hours, longer until ≤4°C.",
+      "Add remaining 100 ml cold water; sieve if a smooth zest-free texture is wanted.",
+      "Chill the base to 4°C or below. Measure its cooled volume: the maximum starting base is 1.4 L, not the 1.9 L finished capacity. Do not double this batch blindly.",
+      "Stop and unplug to fit the frozen bowl, correct dasher and drive. Start the dasher on Stir / lowest speed before pouring in the cold base; never pour into a stationary dasher. Churn about 20–30 minutes until thick soft-serve with tracks and ridges. Stop immediately if the dasher stalls; do not increase speed.",
+      "Pack into a cold covered shallow container and freeze at −18°C or colder 2–4 hours until scoopable. Completely refreeze the bowl before another batch; allow it to reach room temperature before hand-washing and follow its generation-specific cleaning instructions."
+    ],
+    "cue": "Clear dissolved syrup, then a thick spoonable slush after churning.",
+    "troubleshoot": "clear dissolved syrup, strongly tart base, thick spoonable slush after churn; lemon lacks berry pulp and naturally has a lighter/icier texture. Bitter: white pith or excessive peel; hard: under-sugared or very cold storage; slushy: inaccurate water/sugar or warm bowl. Do not use the berry sugar ratio indiscriminately for tart citrus. Temper a few minutes before serving. Rinse citrus before zesting. If the base stays liquid after 20–30 minutes, stop and refrigerate it; check bowl freeze, base temperature, assembly and volume before retrying with a fully refrozen bowl. Never solve a stalled dasher with more speed or hot water.",
+    "sources": [
+      {
+        "title": "BBC Food lemon sorbet, official public formula/method",
+        "url": "https://www.bbc.co.uk/food/recipes/lemon_sorbet_44326"
+      },
+      {
+        "title": "Epicurious's Lebovitz lemon sorbet",
+        "url": "https://www.epicurious.com/recipes/food/views/lemon-sorbet-379911"
+      },
+      {
+        "title": "Official tips",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Tips_for_Great_Results"
+      },
+      {
+        "title": "current US KSMICM",
+        "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.ice-cream-maker-attachment.KSMICM.html"
+      },
+      {
+        "title": "Making ice cream",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Making_an_Ice_Cream"
+      },
+      {
+        "title": "UK 5KSMICM capacity",
+        "url": "https://www.kitchenaid.co.uk/mixer-attachments/859711690400/ice-cream-maker-5ksmicm-white"
+      },
+      {
+        "title": "US attachment guide",
+        "url": "https://www.kitchenaid.com/content/dam/kitchenaid/en_us/attachments/KitchenAid%20Attachment%20Guide-new.pdf"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "BBC Food's public churned formula, with juice volume rather than a fixed count of variable-sized lemons. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. Churn prepared bases within 24 hours; enjoy within 1–2 weeks for best texture, not a validated shelf-life promise. Exact attachment generation and country determine compatibility; this bowl is not universal.",
+    "yield": "roughly 0.7–0.75 L base, 0.75–0.9 L finished, 6 small servings.",
+    "bowl": "Optional 5KSMICM freeze bowl replaces the normal mixing bowl for churning"
+  },
+  {
+    "id": "pistachio-gelato",
+    "title": "Pistachio gelato-style ice cream",
+    "category": "frozen",
+    "equipment": "Compatible mixer and pre-frozen ice-cream bowl, correct dasher and drive, scales, measuring jug, silicone spatula and covered shallow freezer container; saucepan, whisk, fine sieve, thermometer and ice-water bath",
+    "requirement": "icecream",
+    "time": "7–10 hours after bowl is frozen, including ≥4 hours chilling and 2–4 hours hardening; freeze bowl ≥24 hours ahead",
+    "intro": "Sweetened pistachio cream containing about 40–50% nuts is essential; pure nut paste is not interchangeable.",
+    "ingredients": [
+      "500 ml whole milk",
+      "65 g sugar",
+      "16 g cornstarch",
+      "200 g sweetened pistachio cream/paste containing approximately 40–50% pistachios plus sugar/fat, as the source specifies",
+      "2–3 drops lemon juice, optional"
+    ],
+    "steps": [
+      "Freeze the compatible ice-cream bowl for at least 24 hours; follow the exact attachment manual if it requires longer. Use pasteurized dairy where specified.",
+      "whisk starch into 60 ml of the milk until smooth.",
+      "Heat remaining milk with sugar until almost boiling.",
+      "Whisk in slurry and gently simmer 3 minutes, stirring continuously; it should lightly thicken, not scorch.",
+      "Transfer to bowl, cool promptly in an ice bath, cover and refrigerate 4 hours or preferably overnight.",
+      "Whisk in pistachio cream and optional citrus until completely smooth and evenly coloured; keep ≤4°C (re-chill if necessary).",
+      "Chill the base to 4°C or below. Measure its cooled volume: the maximum starting base is 1.4 L, not the 1.9 L finished capacity. Do not double this batch blindly.",
+      "Stop and unplug to fit the frozen bowl, correct dasher and drive. Start the dasher on Stir / lowest speed before pouring in the cold base; never pour into a stationary dasher. Churn about 20–30 minutes until thick soft-serve with tracks and ridges. Stop immediately if the dasher stalls; do not increase speed.",
+      "Pack into a cold covered shallow container and freeze at −18°C or colder 2–4 hours until scoopable. Completely refreeze the bowl before another batch; allow it to reach room temperature before hand-washing and follow its generation-specific cleaning instructions."
+    ],
+    "cue": "Smooth evenly coloured base, usually muted green or beige; thick soft-serve with churn tracks.",
+    "troubleshoot": "gritty: nut product not finely ground or cream not dispersed; use smooth purchased cream rather than chopped nuts. Hard/bland: wrong product, especially substituting pure unsweetened paste without rebalancing sugar/fat. Sweetened spreads vary significantly; recipe needs practical testing with the selected brand. No validated one-for-one conversion to pure paste is supplied. Nut + milk allergens; inspect spread label for soy/other nuts. Natural colour is usually muted green/beige, not fluorescent green. Keep milk base cold. If the base stays liquid after 20–30 minutes, stop and refrigerate it; check bowl freeze, base temperature, assembly and volume before retrying with a fully refrozen bowl. Never solve a stalled dasher with more speed or hot water.",
+    "sources": [
+      {
+        "title": "Lebovitz pistachio gelato, starch method and essential paste note",
+        "url": "https://www.davidlebovitz.com/pistachio-gelat/"
+      },
+      {
+        "title": "Official tips",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Tips_for_Great_Results"
+      },
+      {
+        "title": "current US KSMICM",
+        "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.ice-cream-maker-attachment.KSMICM.html"
+      },
+      {
+        "title": "Making ice cream",
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Sweets_and_Desserts/Ice_Cream_Maker/2022_and_After/Making_an_Ice_Cream"
+      },
+      {
+        "title": "UK 5KSMICM capacity",
+        "url": "https://www.kitchenaid.co.uk/mixer-attachments/859711690400/ice-cream-maker-5ksmicm-white"
+      },
+      {
+        "title": "US attachment guide",
+        "url": "https://www.kitchenaid.com/content/dam/kitchenaid/en_us/attachments/KitchenAid%20Attachment%20Guide-new.pdf"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "David Lebovitz's public Sicilian-style starch recipe at its original conservative size. Use the specified sweetened pistachio cream, not 100% nut paste. 'Gelato-style' acknowledges a domestic KitchenAid churn is not commercial gelato equipment. Research-based draft; not kitchen-tested. Elapsed times and yields are estimates; use texture endpoints. Keep perishables at 4°C or below and cumulative room-temperature handling under 2 hours, or 1 hour above 32°C. Churn prepared bases within 24 hours; enjoy within 1–2 weeks for best texture, not a validated shelf-life promise. Exact attachment generation and country determine compatibility; this bowl is not universal. Let briefly temper before serving for a softer gelato-style texture.",
+    "yield": "about 0.65–0.75 L base, 0.7–0.9 L finished, 6 small servings.",
+    "bowl": "Optional 5KSMICM freeze bowl replaces the normal mixing bowl for churning"
+  },
+  {
+    "id": "whipped-cream",
+    "title": "Whipped cream",
+    "category": "everyday",
+    "equipment": "Mixer, wire whisk, bowl, refrigerator and spatula",
+    "requirement": "standard",
+    "time": "15–20 minutes, including 10 minutes chilling tools",
+    "intro": "Cold cream and chilled tools help you reach soft peaks before the cream starts separating.",
+    "ingredients": [
+      "250 ml cold pasteurized pure or thickened whipping cream (about 35% fat)",
+      "15 g icing sugar",
+      "2 ml vanilla extract"
+    ],
+    "steps": [
+      "Chill bowl and whisk for about 10 minutes. Add cold cream, icing sugar and vanilla.",
+      "Start low, gradually increase to speed 8–10, and watch continuously. Stop at soft or medium peaks, usually within a few minutes; do not chase a fixed timer.",
+      "Use promptly or refrigerate covered at 4°C or below; use within 2 days."
+    ],
+    "cue": "Cream holds soft drooping peaks or medium peaks without graininess.",
+    "troubleshoot": "If the cream stays liquid, check that it is whipping cream and properly cold. Stop as soon as peaks hold: grainy cream is overwhipped and continued whipping separates butter and liquid.",
+    "sources": [
+      {
+        "title": "KitchenAid: how to make whipped cream",
+        "url": "https://www.kitchenaid.com/pinch-of-help/stand-mixers/how-to-make-whipped-cream.html/"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Editorial metric small-batch adaptation, not kitchen-tested. Stop and unplug before fitting tools; stop before scraping.",
+    "yield": "About 450–500 ml whipped cream; 4–6 servings",
+    "bowl": "2.8 L stainless steel bowl with wire whisk; 4.7 L bowl also available"
+  },
+  {
+    "id": "homemade-butter",
+    "title": "Homemade butter",
+    "category": "everyday",
+    "equipment": "Mixer, wire whisk, flex-edge beater, bowl, sieve or cheesecloth, spatula and ice-cold water",
+    "requirement": "standard",
+    "time": "20–30 minutes, including whipping, draining and washing",
+    "intro": "Washing away the trapped sweet-cream liquid gives the butter a cleaner texture and flavour.",
+    "ingredients": [
+      "500 ml pasteurized pure or thickened whipping cream (about 35% fat)",
+      "Ice-cold water, about 60 ml per wash, repeated as needed",
+      "Optional 2 g fine salt"
+    ],
+    "steps": [
+      "Add cream to bowl. Start low and gradually increase to a whipping speed, using a compatible shield if needed. Whip past cream peaks until yellow butter solids separate from liquid, around 10 minutes but variable.",
+      "Stop and drain liquid through a sieve or cheesecloth; press solids gently.",
+      "Wash the drained butter by hand in a clean bowl: add about 60 ml ice-cold water, press gently with a spatula, drain cloudy water and repeat until water stays clear. Press out water; do not force the wire whisk through firm butter.",
+      "Stop and unplug to fit the flex-edge beater. Add optional salt and mix briefly on low just until combined. Wrap and refrigerate at 4°C or below."
+    ],
+    "cue": "Distinct yellow butter solids separate from liquid; final wash water stays clear.",
+    "troubleshoot": "If separation is slow, continue watching rather than assuming a fixed whipping time. Cloudy washing water means more liquid remains trapped; wash again and press out water. Stop before draining or scraping and do not let the machine strain against firm butter.",
+    "sources": [
+      {
+        "title": "KitchenAid: how to make butter",
+        "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-make-butter"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      }
+    ],
+    "note": "Editorial 500 ml metric batch; yield is estimated, not measured. Churning is physical separation, not pasteurization. Use pasteurized cream; drained sweet-cream liquid is not a substitute for cultured acidic buttermilk in leavened recipes. KSM195 adaptation: wash butter by hand; use the flex-edge beater only briefly to blend optional salt.",
+    "yield": "Estimated 180–220 g butter, depending on cream fat and draining",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "mashed-potatoes",
+    "title": "Mashed potatoes",
+    "category": "everyday",
+    "equipment": "Mixer, pastry beater, bowl, scales, saucepan, stove and colander",
+    "requirement": "standard",
+    "time": "35–45 minutes, including separately cooking potatoes",
+    "intro": "Add warm milk gradually and stop early to avoid turning the potatoes gluey.",
+    "ingredients": [
+      "750 g potatoes, peeled",
+      "100–150 ml warm milk",
+      "40 g butter",
+      "4 g fine salt",
+      "Water for boiling"
+    ],
+    "steps": [
+      "Cut potatoes into even pieces, cover with water in a saucepan, bring to a boil and simmer until completely tender, about 15–25 minutes depending on size. The mixer does not cook them.",
+      "Drain thoroughly, allow steam to escape briefly and warm the milk separately.",
+      "Fit pastry beater. Put hot cooked potatoes and butter into bowl, use speed 2, and gradually add 100 ml warm milk plus salt. Add up to 50 ml more milk only as needed.",
+      "Stop as soon as smooth or at your preferred texture; scrape only while stopped. Serve hot or cool promptly in shallow containers and refrigerate within 2 hours, or 1 hour above 32°C."
+    ],
+    "cue": "Tender potatoes crush easily; mash is soft with no hard pieces, not elastic or gluey.",
+    "troubleshoot": "Hard lumps mean the potatoes were undercooked; cook them thoroughly before mixing. Excess milk makes loose mash, so hold some back. Gluey mash comes from overworking starch and cannot be fixed by further beating.",
+    "sources": [
+      {
+        "title": "KitchenAid: how to make mashed potatoes",
+        "url": "https://www.kitchenaid.com/pinch-of-help/stand-mixers/how-to-make-mashed-potatoes.html"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      },
+      {
+        "title": "KitchenAid AU: supplied pastry beater for KSM195",
+        "url": "https://kitchenaid.com.au/products/pastry-beater-standard-th-sm"
+      }
+    ],
+    "note": "Editorial metric small batch rather than an exact scaled reproduction; not kitchen-tested. Standard-tool savoury preparation grouped under batter for this four-category collection. Stop and unplug before tool changes.",
+    "yield": "About 900–950 g; 4 side servings",
+    "bowl": "4.7 L stainless steel bowl"
+  },
+  {
+    "id": "shredded-chicken",
+    "title": "Shredded cooked chicken",
+    "category": "everyday",
+    "equipment": "Mixer, pastry beater, bowl, separate cooking appliance and food thermometer",
+    "requirement": "standard",
+    "time": "5 minutes from fully cooked chicken; cooking time is additional and depends on the separate method",
+    "intro": "A short low-speed paddle run shreds warm cooked chicken without turning it into fine crumbs.",
+    "ingredients": [
+      "400 g fully cooked, boneless, skinless chicken"
+    ],
+    "steps": [
+      "Cook chicken separately by a suitable method and verify at least 74°C in the thickest part with a food thermometer before it enters the mixer. Begin with 400 g fully cooked boneless, skinless chicken, not 400 g raw chicken.",
+      "Fit the supplied pastry beater, not the flex-edge beater. Put warm cooked chicken into the bowl.",
+      "Start briefly at speed 2, then use speed 4 for shredding as specified in the KSM195 manual. Check after 10–15 seconds and stop when shreds are the size you want; total time varies, so do not run for a fixed minute. Check texture while stopped. Add any sauce afterward to reduce splatter.",
+      "Serve promptly or refrigerate in shallow covered containers within 2 hours, or 1 hour above 32°C; keep at 4°C or below."
+    ],
+    "cue": "Chicken separates into distinct shreds, not paste; a thermometer has confirmed 74°C before shredding.",
+    "troubleshoot": "If the pieces are becoming too fine, stop sooner; further mixing will not restore long shreds. Remove all bones and skin before mixing. The mixer neither cooks nor sanitizes raw chicken, so never use shredding as a substitute for reaching 74°C.",
+    "sources": [
+      {
+        "title": "KitchenAid: how to shred chicken",
+        "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-shred-chicken"
+      },
+      {
+        "title": "FDA: safe food handling",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
+      },
+      {
+        "title": "KitchenAid AU: KSM195-linked manual, tool and speed charts pp. 5–6",
+        "url": "https://cdn.shopify.com/s/files/1/0172/8692/2294/files/KSM192_195_Manual_W11556021C_1_1.pdf?v=1752126252"
+      },
+      {
+        "title": "KitchenAid AU: supplied pastry beater for KSM195",
+        "url": "https://kitchenaid.com.au/products/pastry-beater-standard-th-sm"
+      }
+    ],
+    "note": "Editorial 400 g cooked-chicken small batch; not kitchen-tested. Standard-tool savoury preparation grouped under batter for this four-category collection. Stop and unplug before tool changes. KSM195 manual pp. 5–6 specifies the pastry beater for shredded meat, with speed 4 in its tool chart. This replaces generic flat-beater guidance.",
+    "yield": "400 g shredded cooked chicken; 3–4 servings",
+    "bowl": "4.7 L stainless steel bowl"
+  }
+]

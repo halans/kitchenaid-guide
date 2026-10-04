@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bread",
+    "url": "https://images.ctfassets.net/9hu0xqamys79/1xoe5mLvprSSk4wpU18guD/8224b77c0e1b829bbdbd32cd55f08df5/02-KA_PICTURE_2_RED_1-ER.jpg",
+    "credit": "KitchenAid US",
+    "source": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/best-stand-mixer-for-bread-dough",
+    "alt": "Red KitchenAid mixer with dough, hand shaping and bread on a wooden bench",
+    "path": "assets/images/bread.jpg",
+    "width": 1199,
+    "height": 871
+  },
+  {
+    "id": "batter",
+    "url": "https://images.ctfassets.net/9hu0xqamys79/77IHMrtxxVjS4Q8bGaIsGz/e723612b664ae3408274c94ebae686d2/how-to-cream-butter-and-sugar_2.jpg",
+    "credit": "KitchenAid US",
+    "source": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-cream-butter-and-sugar",
+    "alt": "Creaming butter and sugar with a stand mixer",
+    "path": "assets/images/batter.jpg",
+    "width": 1440,
+    "height": 790
+  },
+  {
+    "id": "pasta",
+    "url": "https://pinabresciani.com/wp-content/uploads/2018/07/DSC03131.jpg",
+    "credit": "Pina Bresciani",
+    "source": "https://pinabresciani.com/how-to-make-homemade-pasta-dough/",
+    "alt": "Making fresh pasta with a KitchenAid attachment",
+    "path": "assets/images/pasta.jpg",
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "frozen",
+    "url": "https://images.ctfassets.net/9hu0xqamys79/4MasQo6Lt1m6yuGQliURXJ/d8da642c331c61cd22a381aed3ddab9b/Ice_Cream_Maker_Attachment_hero.jpg",
+    "credit": "KitchenAid US",
+    "source": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-use-the-kitchenaid-ice-cream-attachment",
+    "alt": "KitchenAid frozen-bowl ice cream attachment",
+    "path": "assets/images/frozen.jpg",
+    "width": 1000,
+    "height": 563
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "label": "Sheets & ribbons",
+    "title": "Pasta roller + cutters",
+    "does": "Roll sheets for lasagne and ravioli; cut fettuccine or spaghetti with the matching cutter. Filling and sealing ravioli stays a hand job.",
+    "limit": "Optional KSMPRA is listed for KitchenAid tilt-head mixers including KSM195. Filling and cooking remain separate. Dry classic rollers and brush out debris; do not immerse.",
+    "url": "https://kitchenaid.com.au/products/3-piece-pasta-roller-and-cutter-attachment-ksmpra"
+  },
+  {
+    "label": "Tubes & twists",
+    "title": "Gourmet Pasta Press",
+    "does": "Press-specific dough becomes spaghetti, bucatini, fusilli, rigatoni or macaroni through the matching discs. The wire trims the length.",
+    "limit": "Use the press’s recipe and disc-specific speeds. The rolled-pasta dough and roller speed chart are not universal substitutes.",
+    "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.KSMPEXTA.html"
+  },
+  {
+    "label": "Grind & stuff",
+    "title": "Grinder + sausage stuffer",
+    "does": "Grind very cold cubed meat, then use compatible stuffer plates and tubes to fill casings. Some kits include tubes; others don’t.",
+    "limit": "A stuffer needs a grinder. Neither cooks nor cures meat. Chill metal equipment, keep meat at 4°C or below and cook thoroughly. Use the pusher, never fingers.",
+    "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-use-a-meat-grinder"
+  },
+  {
+    "label": "Slaw & grated cheese",
+    "title": "Fresh Prep Slicer/Shredder",
+    "does": "Matching drums slice firm produce or shred vegetables and suitable cheese for slaw, hash browns and pizza prep.",
+    "limit": "Not a purée maker or general chopping blade. Official Fresh Prep guidance specifies speed 4; use its pusher and your exact model’s blade chart.",
+    "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Fresh_Prep/Shredder_Slicer/What_Blade_Should_be_Used_-_Shredder%2F%2FSlicer"
+  },
+  {
+    "label": "Vegetable ribbons",
+    "title": "Spiralizer",
+    "does": "Spiralize firm produce; peel, core or slice with the appropriate blade combination. Trim ends and secure the produce first.",
+    "limit": "Blade sets differ. Follow the size range and blade-specific speeds; not every soft fruit or oversized potato will work.",
+    "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Fresh_Prep/Spiralizer/Spiralizer_Attachment_Blade_Chart"
+  },
+  {
+    "label": "Juice & sauce",
+    "title": "Juicers + fruit strainer",
+    "does": "A citrus juicer handles halves; a Juice & Sauce attachment separates appropriate produce. A grinder-mounted strainer makes smooth fruit or vegetable purée.",
+    "limit": "Different tools, not one interchangeable attachment. KSMFVSP requires KSMFGA, not legacy FGA. Remove large pits. Juicing is not pasteurizing or preserving.",
+    "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/stand-mixers-attachment-buying-guide"
+  },
+  {
+    "label": "Flour from grain",
+    "title": "Grain mill",
+    "does": "Mill dry, low-moisture, non-oily grains such as wheat or rice. The freshest flour starts with grain suited to the mill.",
+    "limit": "Not for oily nuts, seeds, coffee or nut butter. Official guidance: after the equivalent of 10 cups flour, allow 45 minutes cooldown; follow stricter limits. Raw flour is still raw.",
+    "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Stand_Mixer_Attachments/Pasta_and_Grains/Grain_Mill/Grain_Mill_Tips"
+  },
+  {
+    "label": "Snow, not ice cream",
+    "title": "Shave Ice attachment",
+    "does": "Shave pre-frozen moulded pucks into fine or coarse ice; add syrups, fruit or other prepared toppings afterward.",
+    "limit": "Freeze filled moulds 12–24 hours first, per manual. It does not freeze liquid or churn ice cream. Sugar and alcohol change whether a puck sets properly.",
+    "url": "https://www.kitchenaid.com/countertop-appliances/pinch-of-help/how-to-make-shave-ice-with-stand-mixer-attachment"
+  },
+  {
+    "label": "Continuous prep",
+    "title": "Food Processor attachment",
+    "does": "With the relevant discs, slice, shred and julienne into a receiving bowl. KSM2FPA includes an 8 mm dicing kit.",
+    "limit": "Package contents differ. This disc-based attachment is not a standalone S-blade processor for pesto or hummus. Check local availability and included parts.",
+    "url": "https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.KSM2FPA.html"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "viewport": 1440,
+    "recipes": 25,
+    "images": 5,
+    "horizontalOverflow": false,
+    "filters": "pass",
+    "expandCollapse": "pass",
+    "consoleErrors": []
+  },
+  {
+    "viewport": 390,
+    "recipes": 25,
+    "images": 5,
+    "horizontalOverflow": false,
+    "filters": "pass",
+    "expandCollapse": "pass",
+    "consoleErrors": []
+  },
+  {
+    "viewport": 320,
+    "recipes": 25,
+    "images": 5,
+    "horizontalOverflow": false,
+    "filters": "pass",
+    "expandCollapse": "pass",
+    "consoleErrors": []
+  },
+  {
+    "viewport": 768,
+    "recipes": 25,
+    "images": 5,
+    "horizontalOverflow": false,
+    "filters": "pass",
+    "expandCollapse": "pass",
+    "consoleErrors": []
+  },
+  {
+    "javascriptDisabled": "pass",
+    "nativeRecipeDrawer": "pass"
+  },
+  {
+    "printExpansionAndRestoration": "pass"
+  },
+  {
+    "onlineNetworkRequests": 0,
+    "selfContained": "pass"
+  }
+]
