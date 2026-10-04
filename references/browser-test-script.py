@@ -7,7 +7,7 @@ async def main():
   for width in [1440,390,320,768]:
    page=await browser.new_page(viewport={'width':width,'height':1000},device_scale_factor=1)
    errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
-   await page.goto((root/'index.html').as_uri());await page.evaluate('document.fonts.ready')
+   await page.goto((root/'dist'/'index.html').as_uri());await page.evaluate('document.fonts.ready')
    assert await page.locator('.recipe').count()==25
    assert await page.locator('.attachment').count()==9
    overflow=await page.evaluate('document.documentElement.scrollWidth>innerWidth')
@@ -40,13 +40,13 @@ async def main():
    await page.close()
   # Ensure direct file no-JavaScript remains useful.
   page=await browser.new_page(java_script_enabled=False,viewport={'width':390,'height':900})
-  await page.goto((root/'index.html').as_uri());assert await page.locator('.recipe').count()==25
+  await page.goto((root/'dist'/'index.html').as_uri());assert await page.locator('.recipe').count()==25
   await page.locator('#pizza-dough details.recipe-body>summary').click()
   assert await page.locator('#pizza-dough .ingredients').is_visible()
   results.append({'javascriptDisabled':'pass','nativeRecipeDrawer':'pass'})
   # Print events expose all recipes and restore a filtered view.
   page=await browser.new_page(viewport={'width':390,'height':900})
-  await page.goto((root/'index.html').as_uri());await page.locator('#search').fill('sorbet')
+  await page.goto((root/'dist'/'index.html').as_uri());await page.locator('#search').fill('sorbet')
   await page.evaluate('window.dispatchEvent(new Event("beforeprint"))')
   assert await page.locator('details.recipe-body[open]').count()==25
   assert await page.locator('.recipe:visible').count()==25
@@ -57,7 +57,7 @@ async def main():
   # Fully embedded publication version must make no network requests.
   page=await browser.new_page(viewport={'width':1440,'height':900});requests=[]
   page.on('request',lambda r:requests.append(r.url) if r.url.startswith('http') else None)
-  await page.goto((root/'page-online.html').as_uri());await page.evaluate('document.fonts.ready');assert not requests,requests
+  await page.goto((root/'dist'/'page-online.html').as_uri());await page.evaluate('document.fonts.ready');assert not requests,requests
   results.append({'onlineNetworkRequests':0,'selfContained':'pass'})
   await browser.close()
  pathlib.Path('/tmp/kitchenaid-browser-tests.json').write_text(json.dumps(results,indent=2));print(json.dumps(results,indent=2))

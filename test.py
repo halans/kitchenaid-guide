@@ -3,6 +3,7 @@
 import unittest,json,pathlib,re,base64,html.parser
 import build
 ROOT=pathlib.Path(__file__).resolve().parent
+DIST=ROOT/'dist'
 class Page(html.parser.HTMLParser):
  def __init__(self,text):
   super().__init__();self.ids=[];self.images=[];self.links=[];self.recipe_count=0;self.attachment_count=0;self.attrs=[];self.feed(text)
@@ -16,7 +17,7 @@ class Page(html.parser.HTMLParser):
 class GuideTests(unittest.TestCase):
  @classmethod
  def setUpClass(cls):
-  cls.recipes=json.loads((ROOT/'data/recipes.json').read_text());cls.offline=(ROOT/'index.html').read_text();cls.online=(ROOT/'page-online.html').read_text();cls.page=Page(cls.offline)
+  cls.recipes=json.loads((ROOT/'data/recipes.json').read_text());cls.offline=(DIST/'index.html').read_text();cls.online=(DIST/'page-online.html').read_text();cls.page=Page(cls.offline)
  def test_data_shape(self):
   self.assertEqual(len(self.recipes),25)
   for r in self.recipes:
@@ -33,10 +34,10 @@ class GuideTests(unittest.TestCase):
   for a in self.page.links:
    if a.get('href','').startswith('#'):self.assertIn(a['href'][1:],self.page.ids)
  def test_assets_exist(self):
-  for im in self.page.images:self.assertTrue((ROOT/im['src']).exists());self.assertTrue(im.get('alt'))
-  for asset in re.findall(r'url\((assets/[^)]+)\)',self.offline):self.assertTrue((ROOT/asset).exists())
+  for im in self.page.images:self.assertTrue((DIST/im['src']).exists());self.assertTrue(im.get('alt'))
+  for asset in re.findall(r'url\((assets/[^)]+)\)',self.offline):self.assertTrue((DIST/asset).exists())
  def test_rebuild_is_current(self):
-  for name,content in build.build().items():self.assertEqual((ROOT/name).read_text(),content)
+  for name,content in build.build().items():self.assertEqual((DIST/name).read_text(),content)
  def test_online_offline_equivalence(self):
   normalized=self.online
   for path in set(re.findall(r'(?:src="|url\()(assets/[^"\)]+)',self.offline)):
@@ -44,7 +45,7 @@ class GuideTests(unittest.TestCase):
   self.assertEqual(normalized,self.offline)
  def test_no_external_runtime_dependencies(self):
   for name in ['index.html','page-online.html']:
-   p=Page((ROOT/name).read_text())
+   p=Page((DIST/name).read_text())
    for tag,a in p.attrs:
     if tag in ['script','img','link']:self.assertFalse(a.get('src',a.get('href','')).startswith('http'))
  def test_equipment_counts(self):

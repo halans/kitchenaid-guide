@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Build online self-contained HTML and offline HTML from the same data/template. No dependencies."""
-import pathlib,json,html,base64,re,argparse,sys
+import pathlib,json,html,base64,re,argparse,sys,shutil
 ROOT=pathlib.Path(__file__).resolve().parent
+DIST=ROOT/'dist'
+ASSET_DIRS=['assets/images','assets/fonts']
 def esc(s):return html.escape(str(s),quote=True)
 def link(url,title):return f'<a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{esc(title)} ↗</a>'
 assets={a['id']:a for a in json.loads((ROOT/'assets/manifest.json').read_text())}
@@ -42,13 +44,19 @@ def build():
   data=(ROOT/path).read_bytes();mime='image/jpeg' if path.endswith('.jpg') else 'font/ttf'
   online=online.replace(path,'data:'+mime+';base64,'+base64.b64encode(data).decode())
  return {'index.html':offline,'page-online.html':online}
+def asset_files():return sorted(p.relative_to(ROOT) for d in ASSET_DIRS for p in (ROOT/d).rglob('*') if p.is_file())
 def main():
  ap=argparse.ArgumentParser();ap.add_argument('--check',action='store_true');args=ap.parse_args();outputs=build();bad=[]
  for name,content in outputs.items():
-  path=ROOT/name
+  path=DIST/name
   if args.check:
    if not path.exists() or path.read_text()!=content:bad.append(name)
-  else:path.write_text(content)
+  else:DIST.mkdir(exist_ok=True);path.write_text(content)
+ for rel in asset_files():
+  path=DIST/rel
+  if args.check:
+   if not path.exists() or path.read_bytes()!=(ROOT/rel).read_bytes():bad.append(str(rel))
+  else:path.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/rel,path)
  if bad:print('Stale: '+', '.join(bad));return 1
- print(('Verified' if args.check else 'Built')+' offline and self-contained online pages from one source.');return 0
+ print(('Verified' if args.check else 'Built')+' offline and self-contained online pages from one source into dist/.');return 0
 if __name__=='__main__':sys.exit(main())

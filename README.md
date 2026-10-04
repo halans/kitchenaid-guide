@@ -4,7 +4,7 @@ An independent KitchenAid Artisan KSM195 field guide: 25 metric recipe cards, fi
 
 ## Open it
 
-Extract the whole folder, then open index.html in a modern browser. No install, server, account, internet connection or runtime library is needed. Keep assets beside index.html. Alternatively, page-online.html is one self-contained file with embedded fonts and photos; it can be moved on its own.
+Extract the whole folder, then open dist/index.html in a modern browser. No install, server, account, internet connection or runtime library is needed. Keep dist/assets beside dist/index.html. Alternatively, dist/page-online.html is one self-contained file with embedded fonts and photos; it can be moved on its own.
 
 Search matches recipe names, descriptions, equipment and ingredients. Equipment filters show 17 standard-tool recipes, two roller-required recipes or six ice-cream-bowl recipes. Egg-free semolina hand shapes do not require a roller. Native recipe drawers still work when JavaScript is disabled. Print / save as PDF opens all recipes for printing and restores the previous view afterward. External reference links naturally require internet; the guide itself does not.
 
@@ -47,8 +47,8 @@ Actual captured test output and browser test results are in references/. See BUI
 - data/attachments.json: authoritative attachment summaries.
 - assets/: cached local images, fonts, font CSS and image provenance.
 - build.py: one deterministic builder for both HTML surfaces.
-- index.html: offline local-asset output.
-- page-online.html: equivalent fully embedded publication output.
+- dist/index.html: offline local-asset output (with dist/assets copied beside it).
+- dist/page-online.html: equivalent fully embedded publication output.
 - test.py / verify.py / checksums.json: offline structural, equivalence, freshness and byte verification.
 - references/: research, primary operating-source snapshots, font licenses and captured tests.
 

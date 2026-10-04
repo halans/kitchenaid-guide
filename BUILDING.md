@@ -2,9 +2,9 @@
 
 ## One source of truth
 
-Edit template.html for design/behaviour and the two data JSON files for content. Do not edit index.html or page-online.html directly: they are generated.
+Edit template.html for design/behaviour and the two data JSON files for content. Do not edit anything in dist/ directly: it is generated.
 
-build.py renders recipe/attachment data once. It writes index.html with local assets and derives page-online.html by embedding exactly those bytes as data URLs. test.py reverses that embedding and asserts the two surfaces are otherwise byte-identical. Build uses only Python's standard library and cached assets, with no network or installation.
+build.py renders recipe/attachment data once. It writes dist/index.html, copies assets/images and assets/fonts into dist/assets, and derives dist/page-online.html by embedding exactly those bytes as data URLs. test.py reverses that embedding and asserts the two surfaces are otherwise byte-identical. Build uses only Python's standard library and cached assets, with no network or installation.
 
 ## Recipe schema
 

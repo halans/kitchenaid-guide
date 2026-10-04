@@ -39,7 +39,7 @@ Writes beyond-the-bowl-offline.zip in the parent folder. The zip includes the ki
 
 ## Publication
 
-Upload page-online.html to a static HTML host or publish it as a webpage artifact. It contains its own fonts and photos, with no external rendering dependencies. index.html must be served alongside its assets. Both files render the same guide and are compared by test.py.
+Upload dist/page-online.html to a static HTML host or publish it as a webpage artifact. It contains its own fonts and photos, with no external rendering dependencies. dist/index.html must be served alongside dist/assets. Both files render the same guide and are compared by test.py.
 
 ## What cannot be regenerated from upstream
 
