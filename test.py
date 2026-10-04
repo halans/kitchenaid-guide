@@ -78,4 +78,14 @@ class GuideTests(unittest.TestCase):
   self.assertEqual(r['requirement'],'icecream');self.assertEqual(len(r['ingredients']),4)
   self.assertIn('BEFORE',r['steps'][2]);self.assertIn('Serve straight away',r['steps'][-1])
   self.assertEqual(next(r for r in self.recipes if r['category']=='frozen')['id'],r['id'])
+
+ def test_404_page(self):
+  text=(DIST/'404.html').read_text();p=Page(text)
+  self.assertEqual(text,build.render_404());self.assertNotRegex(text,r'@@\w+@@')
+  self.assertIn('noindex',text);self.assertIn('404',text)
+  hrefs=[a.get('href','') for a in p.links]
+  self.assertIn('/',hrefs)
+  for h in hrefs:self.assertTrue(h=='/' or (h.startswith('/#') and h[2:] in self.page.ids),h)
+  for f in build.fonts():self.assertEqual((DIST/'assets/fonts'/f.name).read_bytes(),f.read_bytes())
+  self.assertNotIn('url(assets/',text)
 if __name__=='__main__':unittest.main(verbosity=2)

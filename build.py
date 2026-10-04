@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build the self-contained online HTML page into dist/index.html from the data/template. No dependencies."""
-import pathlib,json,html,base64,re,argparse,sys
+import pathlib,json,html,base64,re,argparse,sys,shutil
 ROOT=pathlib.Path(__file__).resolve().parent
 DIST=ROOT/'dist'
 def esc(s):return html.escape(str(s),quote=True)
@@ -43,7 +43,11 @@ def render():
   data=(ROOT/path).read_bytes();mime='image/jpeg' if path.endswith('.jpg') else 'font/ttf'
   online=online.replace(path,'data:'+mime+';base64,'+base64.b64encode(data).decode())
  return {'offline':offline,'online':online}
-def build():return {'index.html':render()['online']}
+def render_404():
+ fontcss=(ROOT/'assets/fonts/fonts.css').read_text().replace('url(assets/','url(/assets/')+'\n'
+ return (ROOT/'template-404.html').read_text().replace('@@FONTS@@',fontcss)
+def build():return {'index.html':render()['online'],'404.html':render_404()}
+def fonts():return sorted((ROOT/'assets/fonts').glob('*.ttf'))
 def main():
  ap=argparse.ArgumentParser();ap.add_argument('--check',action='store_true');args=ap.parse_args();outputs=build();bad=[]
  for name,content in outputs.items():
@@ -51,6 +55,12 @@ def main():
   if args.check:
    if not path.exists() or path.read_text()!=content:bad.append(name)
   else:DIST.mkdir(exist_ok=True);path.write_text(content)
+ (DIST/'assets/fonts').mkdir(parents=True,exist_ok=True) if not args.check else None
+ for f in fonts():
+  dest=DIST/'assets/fonts'/f.name
+  if args.check:
+   if not dest.exists() or dest.read_bytes()!=f.read_bytes():bad.append('assets/fonts/'+f.name)
+  else:shutil.copyfile(f,dest)
  if bad:print('Stale: '+', '.join(bad));return 1
- print(('Verified' if args.check else 'Built')+' self-contained online page into dist/index.html.');return 0
+ print(('Verified' if args.check else 'Built')+' dist/index.html (self-contained), dist/404.html and dist/assets/fonts.');return 0
 if __name__=='__main__':sys.exit(main())

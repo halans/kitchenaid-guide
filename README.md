@@ -47,7 +47,8 @@ Actual captured test output and browser test results are in references/. See BUI
 - data/attachments.json: authoritative attachment summaries.
 - assets/: cached local images, fonts, font CSS and image provenance.
 - build.py: one deterministic builder for both HTML surfaces.
-- dist/index.html: the generated, fully embedded single-file page (the only build output).
+- dist/index.html: the generated, fully embedded single-file page.
+- template-404.html → dist/404.html: the not-found page. It links its fonts from /assets/fonts/ (copied into dist/assets/fonts by build.py, git-ignored), so deploy the whole dist/ folder at a domain root.
 - test.py / verify.py / checksums.json: offline structural, equivalence, freshness and byte verification.
 - references/: research, primary operating-source snapshots, font licenses and captured tests.
 

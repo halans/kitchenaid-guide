@@ -4,7 +4,7 @@
 
 Edit template.html for design/behaviour and the two data JSON files for content. Do not edit dist/index.html directly: it is generated.
 
-build.py renders recipe/attachment data once. It renders a local-asset page in memory and derives the self-contained dist/index.html by embedding exactly those asset bytes as data URLs. Only dist/index.html is written. test.py reverses that embedding and asserts the two renderings are otherwise byte-identical. Build uses only Python's standard library and cached assets, with no network or installation.
+build.py renders recipe/attachment data once. It renders a local-asset page in memory and derives the self-contained dist/index.html by embedding exactly those asset bytes as data URLs. dist/index.html is the guide. build.py also writes dist/404.html from template-404.html, which links fonts at absolute /assets/fonts/ paths (a 404 can be served from any URL depth), and copies assets/fonts into dist/assets/fonts. Deploy dist/ at a domain root; hosts such as Cloudflare Pages and Netlify serve 404.html automatically. test.py reverses that embedding and asserts the two renderings are otherwise byte-identical. Build uses only Python's standard library and cached assets, with no network or installation.
 
 ## Recipe schema
 
