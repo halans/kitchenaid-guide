@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Build online self-contained HTML and offline HTML from the same data/template. No dependencies."""
-import pathlib,json,html,base64,re,argparse,sys,shutil
+"""Build the self-contained online HTML page into dist/index.html from the data/template. No dependencies."""
+import pathlib,json,html,base64,re,argparse,sys
 ROOT=pathlib.Path(__file__).resolve().parent
 DIST=ROOT/'dist'
-ASSET_DIRS=['assets/images','assets/fonts']
 def esc(s):return html.escape(str(s),quote=True)
 def link(url,title):return f'<a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{esc(title)} ↗</a>'
 assets={a['id']:a for a in json.loads((ROOT/'assets/manifest.json').read_text())}
@@ -31,7 +30,7 @@ def section(ch,recipes):
  if id=='pasta':extra='<div class="rulebox"><p><strong>For the documented KSMPRA family:</strong> roller speed 2, fettuccine cutter 5, spaghetti cutter 7. Start thickness dial at 1 and progress gradually; dial 4–5 suits many sheet recipes. Follow your own attachment manual. A pasta press is a different tool with different dough and speeds.</p></div><div style="height:25px"></div>'
  if id=='frozen':extra='''<p class="rulebox"><strong>Start simple:</strong> the first recipe uses the fully frozen attachment bowl and is ready to eat as soft-serve after churning. The condensed-milk no-churn recipe uses only the whisk and freezer. Bowl preparation below applies only to the six churned recipes.</p><div class="prep-strip"><div><b>≥24 h</b><p>Freeze bowl fully. Follow the exact manual if longer.</p></div><div><b>≤4°C</b><p>Chill the base. Room temperature is not cold enough.</p></div><div><b>20–30 min</b><p>Churn on Stir to soft-serve texture, not to a fixed timer.</p></div><div><b>Optional 2–4 h</b><p>Freeze for firm scoops. For immediate soft-serve, skip hardening and eat after churning.</p></div></div><div class="rulebox"><p><strong>1.9 L finished is not 1.9 L liquid.</strong> KitchenAid’s guidance limits starting base to 1.4 L; these recipes are smaller. The AU bowl page says 16 hours minimum freeze time; this guide allows 24 hours for planning. Measure cooled base and follow your exact bowl manual. The optional AU 5KSMICM explicitly fits KSM195; it replaces your normal bowl and uses its own dasher and drive. It is not a universal hub accessory. Fully refreeze between batches.</p></div><div style="height:25px"></div>'''
  return f'<section class="category {id}" id="{id}" style="--accent:{accent}"><div class="wrap"><div class="section-intro"><div><p class="section-num">{num} / {name} · {len(subset)} recipes</p><h2>{title}</h2><p class="intro">{intro}</p><p class="principle">{principle}</p></div>{art}</div>{extra}<div class="recipes">'+''.join(recipe(r,recipes.index(r)+1) for r in subset)+'</div></div></section>'
-def build():
+def render():
  recipes=json.loads((ROOT/'data/recipes.json').read_text()); attachments=json.loads((ROOT/'data/attachments.json').read_text())
  fontcss=(ROOT/'assets/fonts/fonts.css').read_text();template=(ROOT/'template.html').read_text();fontcss += '\n.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}\n'
  parts={'@@FONTS@@':fontcss,'@@HERO@@':img('bread',True),'@@SECTIONS@@':''.join(section(ch,recipes) for ch in chapters),'@@ATTACHMENTS@@':''.join(f'<article class="attachment"><p class="small-label">{esc(a["label"])}</p><h3>{esc(a["title"])}</h3><p>{esc(a["does"])}</p><p class="limit">{esc(a["limit"])}</p>{link(a["url"],"Equipment & instructions")}</article>' for a in attachments),'@@CREDITS@@':''.join(f'<li>{link(a["source"],a["credit"]+" · "+a["id"]+" photograph")}</li>' for a in assets.values())}
@@ -43,8 +42,8 @@ def build():
  for path in paths:
   data=(ROOT/path).read_bytes();mime='image/jpeg' if path.endswith('.jpg') else 'font/ttf'
   online=online.replace(path,'data:'+mime+';base64,'+base64.b64encode(data).decode())
- return {'index.html':offline,'page-online.html':online}
-def asset_files():return sorted(p.relative_to(ROOT) for d in ASSET_DIRS for p in (ROOT/d).rglob('*') if p.is_file())
+ return {'offline':offline,'online':online}
+def build():return {'index.html':render()['online']}
 def main():
  ap=argparse.ArgumentParser();ap.add_argument('--check',action='store_true');args=ap.parse_args();outputs=build();bad=[]
  for name,content in outputs.items():
@@ -52,11 +51,6 @@ def main():
   if args.check:
    if not path.exists() or path.read_text()!=content:bad.append(name)
   else:DIST.mkdir(exist_ok=True);path.write_text(content)
- for rel in asset_files():
-  path=DIST/rel
-  if args.check:
-   if not path.exists() or path.read_bytes()!=(ROOT/rel).read_bytes():bad.append(str(rel))
-  else:path.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/rel,path)
  if bad:print('Stale: '+', '.join(bad));return 1
- print(('Verified' if args.check else 'Built')+' offline and self-contained online pages from one source into dist/.');return 0
+ print(('Verified' if args.check else 'Built')+' self-contained online page into dist/index.html.');return 0
 if __name__=='__main__':sys.exit(main())

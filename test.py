@@ -17,7 +17,7 @@ class Page(html.parser.HTMLParser):
 class GuideTests(unittest.TestCase):
  @classmethod
  def setUpClass(cls):
-  cls.recipes=json.loads((ROOT/'data/recipes.json').read_text());cls.offline=(DIST/'index.html').read_text();cls.online=(DIST/'page-online.html').read_text();cls.page=Page(cls.offline)
+  cls.recipes=json.loads((ROOT/'data/recipes.json').read_text());cls.offline=build.render()['offline'];cls.online=(DIST/'index.html').read_text();cls.page=Page(cls.offline)
  def test_data_shape(self):
   self.assertEqual(len(self.recipes),25)
   for r in self.recipes:
@@ -34,8 +34,8 @@ class GuideTests(unittest.TestCase):
   for a in self.page.links:
    if a.get('href','').startswith('#'):self.assertIn(a['href'][1:],self.page.ids)
  def test_assets_exist(self):
-  for im in self.page.images:self.assertTrue((DIST/im['src']).exists());self.assertTrue(im.get('alt'))
-  for asset in re.findall(r'url\((assets/[^)]+)\)',self.offline):self.assertTrue((DIST/asset).exists())
+  for im in self.page.images:self.assertTrue((ROOT/im['src']).exists());self.assertTrue(im.get('alt'))
+  for asset in re.findall(r'url\((assets/[^)]+)\)',self.offline):self.assertTrue((ROOT/asset).exists())
  def test_rebuild_is_current(self):
   for name,content in build.build().items():self.assertEqual((DIST/name).read_text(),content)
  def test_online_offline_equivalence(self):
@@ -44,8 +44,8 @@ class GuideTests(unittest.TestCase):
    data=(ROOT/path).read_bytes();mime='image/jpeg' if path.endswith('.jpg') else 'font/ttf';url='data:'+mime+';base64,'+base64.b64encode(data).decode();self.assertIn(url,normalized);normalized=normalized.replace(url,path)
   self.assertEqual(normalized,self.offline)
  def test_no_external_runtime_dependencies(self):
-  for name in ['index.html','page-online.html']:
-   p=Page((DIST/name).read_text())
+  for text in [self.offline,self.online]:
+   p=Page(text)
    for tag,a in p.attrs:
     if tag in ['script','img','link']:self.assertFalse(a.get('src',a.get('href','')).startswith('http'))
  def test_equipment_counts(self):
