@@ -57,7 +57,7 @@ async def main():
   # Fully embedded publication version must make no network requests.
   page=await browser.new_page(viewport={'width':1440,'height':900});requests=[]
   page.on('request',lambda r:requests.append(r.url) if r.url.startswith('http') else None)
-  await page.goto((root/'dist'/'page-online.html').as_uri());await page.evaluate('document.fonts.ready');assert not requests,requests
+  await page.goto((root/'dist'/'index.html').as_uri());await page.evaluate('document.fonts.ready');assert not requests,requests
   results.append({'onlineNetworkRequests':0,'selfContained':'pass'})
   await browser.close()
  pathlib.Path('/tmp/kitchenaid-browser-tests.json').write_text(json.dumps(results,indent=2));print(json.dumps(results,indent=2))

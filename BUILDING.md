@@ -2,9 +2,9 @@
 
 ## One source of truth
 
-Edit template.html for design/behaviour and the two data JSON files for content. Do not edit anything in dist/ directly: it is generated.
+Edit template.html for design/behaviour and the two data JSON files for content. Do not edit dist/index.html directly: it is generated.
 
-build.py renders recipe/attachment data once. It writes dist/index.html, copies assets/images and assets/fonts into dist/assets, and derives dist/page-online.html by embedding exactly those bytes as data URLs. test.py reverses that embedding and asserts the two surfaces are otherwise byte-identical. Build uses only Python's standard library and cached assets, with no network or installation.
+build.py renders recipe/attachment data once. It renders a local-asset page in memory and derives the self-contained dist/index.html by embedding exactly those asset bytes as data URLs. Only dist/index.html is written. test.py reverses that embedding and asserts the two renderings are otherwise byte-identical. Build uses only Python's standard library and cached assets, with no network or installation.
 
 ## Recipe schema
 
@@ -35,7 +35,7 @@ Items contain label, title, does, limit and url. The source link supports equipm
 
 ## Images and fonts
 
-assets/manifest.json records image paths, sources, original URLs and credits. The builder reads local bytes. Offline index.html uses local font CSS; page-online.html embeds the font bytes. If changing fonts, update assets/fonts/fonts.css and retain applicable license text under references/font-licenses/.
+assets/manifest.json records image paths, sources, original URLs and credits. The builder reads local bytes. The local-asset rendering uses local font CSS; dist/index.html embeds the font bytes. If changing fonts, update assets/fonts/fonts.css and retain applicable license text under references/font-licenses/.
 
 If replacing an image, use an authorized local image; update credit, source, alt text, width and height in the manifest. Do not rely on a remote URL for rendering. Asset fetching/resizing was a preparation step, not a runtime or rebuild requirement.
 
@@ -43,9 +43,9 @@ If replacing an image, use an authorized local image; update credit, source, alt
 
 ```text
 $ python3 build.py
-Built offline and self-contained online pages from one source.
+Built self-contained online page into dist/index.html.
 $ python3 build.py --check
-Verified offline and self-contained online pages from one source.
+Verified self-contained online page into dist/index.html.
 ```
 
 Exit status: 0 = pass; build --check exits 1 for stale outputs. Tests and checksum verification exit nonzero on failure. The full captured seventeen-test run is in references/test-results.txt.
